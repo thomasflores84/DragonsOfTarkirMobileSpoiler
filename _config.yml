@@ -1,0 +1,4 @@
+name: Jekyll Test
+markdown: redcarpet
+pygments: true
+baseurl: /jekyll-demo
