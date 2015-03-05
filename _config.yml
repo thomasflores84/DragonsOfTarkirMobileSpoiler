@@ -1,5 +1,5 @@
 name: Test1
 markdown: redcarpet
 highlighter: pygments
-baseurl: /DragonsOfTarkirSpoiler
+baseurl: DragonsOfTarkirSpoiler/
 port: 9001
