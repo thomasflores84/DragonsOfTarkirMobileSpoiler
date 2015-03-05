@@ -1,4 +1,5 @@
 name: Jekyll Test
 markdown: redcarpet
-pygments: true
-baseurl: /jekyll-demo
+highlighter: pygments
+baseurl: /
+port: 9001
