@@ -1,11 +1,11 @@
 $('.cardwrapper').height(
-		$('.cardwrapper').width() * 1.4
+		$('.cardwrapper').width() * 1.44
 	);
 
 $('.RulesFlavorRow').height(
 		$('.cardBorder').height() - 
-		$('.TitleCostRow').outerHeight() - 
-		$('.TypeRarityRow').outerHeight(true)
+		$('.TitleCostRow').outerHeight(true) - 
+		$('.TypeRarityRow').outerHeight()
 	);
 
 $('.TitleCostRow, .TypeRarityRow, .attack').css(

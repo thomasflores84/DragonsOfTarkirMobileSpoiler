@@ -5,20 +5,22 @@ layout: default
 	{% if page.image %}
   		<img class="columns small-12 medium-6 large-4" src="{{ site.baseurl }}/img/{{ page.image }}">
 	{% endif %}
-	<div class="cardwrapper columns small-12 medium-6 large-4 end">
-		<div class="cardBorder {{ page.color }}">
-			<div class="TitleCostRow">
-				<div class="title">{{ page.title }}</div><div class="cost">{{ page.cost }}</div>
+	<div class="columns small-12 medium-6 large-4 end">
+		<div class="cardwrapper">
+			<div class="cardBorder {{ page.color }}">
+				<div class="TitleCostRow">
+					<div class="title">{{ page.title }}</div><div class="cost">{{ page.cost }}</div>
+				</div>
+				<div class="TypeRarityRow">
+					<div class="type">{{ page.type }}</div><div class="rarity">{{ page.rarity }}</div>
+				</div>
+				<div class="RulesFlavorRow">
+					<div class="rules">{{ content }}</div><!--<div class="cost">{{ page.cost }}</div>-->
+				</div>
+				{% if page.attack %}
+					<div class="attack">{{ page.attack }}</div>
+				{% endif %}
 			</div>
-			<div class="TypeRarityRow">
-				<div class="type">{{ page.type }}</div><div class="rarity">{{ page.rarity }}</div>
-			</div>
-			<div class="RulesFlavorRow">
-				<div class="rules">{{ content }}</div><!--<div class="cost">{{ page.cost }}</div>-->
-			</div>
-			{% if page.attack %}
-				<div class="attack">{{ page.attack }}</div>
-			{% endif %}
 		</div>
 	</div>
 </div>
