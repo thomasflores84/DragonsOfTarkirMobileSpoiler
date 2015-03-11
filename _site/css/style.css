@@ -1,0 +1,72 @@
+.cardwrapper {
+	background: black;
+	border-radius: 1em;
+	padding: 1em;
+}
+
+.columns {
+	padding: .7em;
+}
+
+.white {background: rgb(249, 249, 238) !important;}
+.blue {background: rgb(33, 26, 235) !important;}
+.black {background: rgb(0, 0, 0) !important;}
+.red {background: rgb(222, 22, 22) !important;}
+.green {background: rgb(22, 181, 46) !important;}
+.multi {
+	background: #fefcea; /* Old browsers */
+	background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important; /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1da36))  !important; /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important; /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important; /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important; /* IE10+ */
+	background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 100%)  !important; /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 )  !important; /* IE6-9 */
+}
+.colorless {background: rgb(150, 150, 150) !important;}
+
+.cardBorder {
+	border-radius: .5em;
+	border-bottom-left-radius: 15%;
+	border-bottom-right-radius: 15%;
+	height: 100%;
+	padding: .2em;
+	overflow: visible;
+}
+
+.title, .type {
+	float: left;
+}
+.cost, .rarity {
+	float: right;
+}
+
+.cardBorder>div {
+	border: solid 1px black;
+	padding: 0 .3em;
+}
+
+.colorPicker{display:block;}
+
+.colorPicker li {
+	width: 14%;
+}
+
+.TitleCostRow, .TypeRarityRow {
+	width: 100%;
+	height: 2em;
+	border-radius: .6em;
+	margin: .2em 0;
+}
+
+.RulesFlavorRow {
+	margin: .2em;
+}
+
+.attack {
+	position: absolute;
+	bottom: 1em;
+	right: 1em;
+	display: block;
+	border-radius: .6em;
+}

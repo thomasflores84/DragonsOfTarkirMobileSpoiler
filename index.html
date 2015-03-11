@@ -1,13 +1,29 @@
 ---
 layout: default
-title: Mobile Spoiler
+title: Dragons of Tarkir Mobile Spoiler
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="row">
+	{% for card in site.posts %}
+		<a href="{{ site.baseurl }}/{{ card.url }}">
+		{% if card.image %}
+	  		<img class="columns small-12 medium-4 large-3" src="{{ site.baseurl }}/img/{{ card.image }}">
+		{% else %}
+			<div class="cardwrapper columns small-12 medium-4 large-3 end">
+				<div class="cardBorder {{ card.color }}">
+					<div class="TitleCostRow">
+						<div class="title">{{ card.title }}</div><div class="cost">{{ card.cost }}</div>
+					</div>
+					<div class="TypeRarityRow">
+						<div class="type">{{ card.type }}</div><div class="rarity">{{ card.rarity }}</div>
+					</div>
+					<div class="RulesFlavorRow">
+						<div class="rules">{{ card.content }}</div><!--<div class="cost">{{ card.cost }}</div>-->
+					</div>
+					<div class="attack">{{ card.attack }}</div>
+				</div>
+			</div>
+		{% endif %}
+		</a>
+	{% endfor %}
 </div>

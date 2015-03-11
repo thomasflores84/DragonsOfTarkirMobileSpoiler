@@ -1,5 +1,6 @@
-name: Test1
+name: Dragons of Tarkir Mobile Spoiler
 markdown: redcarpet
 highlighter: pygments
 baseurl: /DragonsOfTarkirMobileSpoiler
 port: 9001
+permalink: /:categories/:title
