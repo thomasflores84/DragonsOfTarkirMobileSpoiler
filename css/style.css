@@ -65,8 +65,8 @@
 
 .cardBorder .attack {
 	position: absolute;
-	bottom: 2em;
-	right: 1.5em;
+	bottom: 10%;
+	right: 11%;
 	display: block;
 	border-radius: .6em;
 	padding: 0 .5em;
