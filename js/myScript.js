@@ -1,4 +1,4 @@
-$('.cardwrapper').height(
+$('.cardwrapper').outerHeight(
 		$('.cardwrapper').outerWidth() * 1.395
 	);
 
