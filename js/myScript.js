@@ -36,7 +36,6 @@ function modifySizes () {
 			$('.TitleCostRow').outerHeight(true) - 
 			$('.TypeRarityRow').outerHeight()
 		);
-	$('nav').append( "<div>Handler for .resize() called.</div>" );
 }
 modifySizes();
 $( window ).resize(modifySizes);
