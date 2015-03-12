@@ -2,12 +2,6 @@ $('.cardwrapper').height(
 		$('.cardwrapper').width() * 1.44
 	);
 
-$('.RulesFlavorRow').height(
-		$('.cardBorder').height() - 
-		$('.TitleCostRow').outerHeight(true) - 
-		$('.TypeRarityRow').outerHeight()
-	);
-
 $('.TitleCostRow, .TypeRarityRow, .attack').css(
 	'background-color',
 	function () {
@@ -34,4 +28,10 @@ $('.colorPicker').height($('.top-bar').height());
 
 $('.cardwrapper div, .RulesFlavorRow *').css('font-size', 
 		($('.cardwrapper').width() / 300 * 12) + 'pt'
+	);
+
+$('.RulesFlavorRow').height(
+		$('.cardBorder').height() - 
+		$('.TitleCostRow').outerHeight(true) - 
+		$('.TypeRarityRow').outerHeight()
 	);
