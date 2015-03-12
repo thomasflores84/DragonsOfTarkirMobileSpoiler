@@ -1,5 +1,5 @@
 $('.cardwrapper').height(
-		$('.cardwrapper').width() * 1.44
+		$('.cardwrapper').outerWidth() * 1.44
 	);
 
 $('.TitleCostRow, .TypeRarityRow, .attack').css(
