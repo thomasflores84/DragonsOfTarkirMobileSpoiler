@@ -48,6 +48,11 @@ p {margin-bottom: 1.25em;}
 .cardBorder>div {
 	border: solid 1px black;
 	padding: 0 .3em;
+	font-weight: bold;
+}
+
+.RulesFlavorRow p {
+	font-weight: normal;
 }
 
 .colorPicker{display:block;}
