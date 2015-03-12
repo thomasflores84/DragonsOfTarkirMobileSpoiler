@@ -39,7 +39,4 @@ function modifySizes () {
 	$('nav').append( "<div>Handler for .resize() called.</div>" );
 }
 modifySizes();
-$( window ).resize(function() {
-  $( "body" ).prepend( "<div>" + $( window ).width() + "</div>" );
-	modifySizes();
-});
+$( window ).resize(modifySizes);
