@@ -1,6 +1,6 @@
 ---
 layout: card
-title:  "Test Anafenza, Kin-Tree Spirit"
+title:  "Anafenza, Kin-Tree Spirit"
 type: "Legendary Creature - Spirit Soldier"
 rarity: "R"
 attack: "2/2"
