@@ -32,6 +32,6 @@ $('.RulesFlavorRow').css(
 
 $('.colorPicker').height($('.top-bar').height());
 
-$('.cardwrapper div, .RulesFlavorRow *').css('font-size', 
+$('.mainBody').css('font-size', 
 		($('.cardwrapper').width() / 300 * 12) + 'pt'
 	);
