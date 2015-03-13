@@ -1,14 +1,18 @@
+body {font-family: 'PT Serif', "Times New Roman", Times, serif;}
+
+p {margin-bottom: 1.25em;}
+
 .cardwrapper {
 	background: black;
-	border-radius: 1em;
-	padding: .7em;
+	border-radius: 5%;
+	padding: 4.2%;
 }
 
 .columns {
-	padding: .7em;
+	padding: 1%;
 }
 
-.white {background: rgb(249, 249, 238) !important;}
+.white {background: rgb(230,224,191) !important;}
 .blue {background: rgb(33, 26, 235) !important;}
 .black {background: rgb(0, 0, 0) !important;}
 .red {background: rgb(222, 22, 22) !important;}
@@ -44,6 +48,11 @@
 .cardBorder>div {
 	border: solid 1px black;
 	padding: 0 .3em;
+	font-weight: bold;
+}
+
+.RulesFlavorRow * {
+	font-weight: normal;
 }
 
 .colorPicker{display:block;}
@@ -60,13 +69,13 @@
 }
 
 .RulesFlavorRow {
-	margin: .2em;
+	margin: 2%;
 }
 
 .cardBorder .attack {
 	position: absolute;
-	bottom: 2em;
-	right: 1.5em;
+	bottom: 6%;
+	right: 7%;
 	display: block;
 	border-radius: .6em;
 	padding: 0 .5em;
