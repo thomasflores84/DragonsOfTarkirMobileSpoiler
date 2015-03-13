@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 $('.cardwrapper').height(
 		$('.cardwrapper').width() * 1.44
 	);
@@ -33,10 +33,10 @@ $('.RulesFlavorRow').css(
 
 $('.colorPicker').height($('.top-bar').height());
 
-$('.mainBody').css('font-size', 
+$('.cardwrapper div, .RulesFlavorRow *').css('font-size', 
 		($('.cardwrapper').width() / 300 * 12) + 'pt'
 	);
-=======
+
 function modifySizes () {
 	$('.cardwrapper').outerHeight(
 			$('.cardwrapper').outerWidth() * 1.395
@@ -78,4 +78,3 @@ function modifySizes () {
 }
 modifySizes();
 $( window ).resize(modifySizes);
->>>>>>> FETCH_HEAD
