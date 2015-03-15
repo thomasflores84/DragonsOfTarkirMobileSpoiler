@@ -8,8 +8,6 @@ cost: ""
 color: "white"
 image: ""
 categories: white creature
-flavor: ""
+flavor: ''
 ---
-
-
 

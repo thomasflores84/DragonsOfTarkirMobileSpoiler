@@ -6,7 +6,7 @@ rarity: "U"
 attack: "0/4"
 cost: "1W"
 color: "white"
-image: "OratorofOjutai.jpg"
+image: "OratorofOjutai.png"
 categories: white creature
 flavor: ""
 ---
