@@ -1,0 +1,14 @@
+---
+layout: card
+title: "Dromoka Dunecaster"
+color: "white"
+categories: creature white
+type: "Creature - Human Wizard"
+rarity: "C"
+attack: "0/2"
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/330/200/283/635618415648781943.png"
+cost: "W"
+flavor: "The dragonlords rule the tempests of the skies. Here in the wastes, the storms are my to command.&quot;"
+---
+
+<span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span><span class="tip mana-icon mana-white" title="1 White Mana">W</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>: Tap target creature without flying.

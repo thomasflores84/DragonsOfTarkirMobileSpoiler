@@ -1,0 +1,13 @@
+---
+layout: card
+title: "Glint"
+color: "blue"
+categories: instant blue
+type: "Instant"
+rarity: "C"
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/383/200/283/635618466263727173.png"
+cost: "1U"
+flavor: "Rakshasa waste no opportunity to display their wealth and power, even in the midst of a sorcerous duel."
+---
+
+Target creature you control gets +0/+3 and gains hexproof until end of turn.<em>(It can't be the target of spells or abilities your opponents control.)</em>

@@ -1,0 +1,13 @@
+---
+layout: card
+title: "Roast"
+color: "red"
+categories: sorcery red
+type: "Sorcery"
+rarity: "U"
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/49/200/283/635612325408419784.png"
+cost: "1R"
+flavor: "&quot;Intruders in the lands of Atarka have but two choices: be consumed by fire, or be consumed by maw.&quot;"
+---
+
+Roast does 5 damage to target creature without flying.

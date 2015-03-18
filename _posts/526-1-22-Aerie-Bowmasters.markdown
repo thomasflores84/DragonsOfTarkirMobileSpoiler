@@ -1,0 +1,16 @@
+---
+layout: card
+title: "Aerie Bowmasters"
+color: "green"
+categories: creature green
+type: "Creature - Hound Archer"
+rarity: "C"
+attack: "3/4"
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/909/200/283/635608922201949606.png"
+cost: "2GG"
+flavor: ""
+---
+
+Reach
+
+Megamorph <span class="tip mana-icon mana-colorless-05" title="5 Colorless Mana">5</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span> <em>(You may cast this card face down as a 2/2 creature for <span class="tip mana-icon mana-colorless-03" title="3 Colorless Mana">3</span>. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)</em>

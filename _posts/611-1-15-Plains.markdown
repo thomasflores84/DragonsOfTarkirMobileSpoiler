@@ -1,0 +1,13 @@
+---
+layout: card
+title: "Plains"
+color: "colorless"
+categories: land colorless
+type: "Basic Land - Plains"
+rarity: " "
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/268/200/283/635617517398195969.png"
+cost: ""
+flavor: ""
+---
+
+

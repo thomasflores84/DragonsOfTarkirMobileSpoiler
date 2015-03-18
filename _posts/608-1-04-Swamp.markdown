@@ -1,0 +1,13 @@
+---
+layout: card
+title: "Swamp"
+color: "colorless"
+categories: land colorless
+type: "Basic Land - Swamp"
+rarity: " "
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/274/200/283/635617519994545572.png"
+cost: ""
+flavor: ""
+---
+
+

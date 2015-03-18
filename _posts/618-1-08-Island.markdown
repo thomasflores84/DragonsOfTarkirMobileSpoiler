@@ -1,0 +1,13 @@
+---
+layout: card
+title: "Island"
+color: "colorless"
+categories: land colorless
+type: "Basic Land - Island"
+rarity: " "
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/271/200/283/635617518358694968.png"
+cost: ""
+flavor: ""
+---
+
+
