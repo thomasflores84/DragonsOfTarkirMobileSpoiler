@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test Dragons of Tarkir Mobile Spoiler
+title: Dragons of Tarkir Mobile Spoiler
 ---
 
 <div class="mainBody row">
@@ -10,7 +10,7 @@ title: Test Dragons of Tarkir Mobile Spoiler
 			{% if card.image contains 'http:'}
 	  			<img class="columns small-6 medium-6 large-4" src="{{ card.image }}">
 			{% else %}
-	  			<img class="columns small-6 medium-6 large-4" src="{{ card.image }}">
+	  			<img class="columns small-6 medium-6 large-4" src="{{ site.baseurl }}/img/{{ card.image }}">
 			{% endif %}
 		{% else %}
 			<div class="cardwrapper columns small-6 medium-4 large-3 end">
