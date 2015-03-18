@@ -17,7 +17,7 @@ p {margin-bottom: 1.25em;}
 .black {background: rgb(0, 0, 0) !important;}
 .red {background: rgb(222, 22, 22) !important;}
 .green {background: rgb(22, 181, 46) !important;}
-.multi {
+.multicolored {
 	background: #fefcea; /* Old browsers */
 	background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important; /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1da36))  !important; /* Chrome,Safari4+ */
