@@ -1,0 +1,13 @@
+---
+layout: card
+title: "Forest"
+color: "colorless"
+categories: land colorless
+type: "Basic Land - Forest"
+rarity: " "
+image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/280/200/283/635617523314286837.png"
+cost: ""
+flavor: ""
+---
+
+
