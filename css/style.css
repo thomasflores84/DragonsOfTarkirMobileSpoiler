@@ -12,16 +12,15 @@ p {margin-bottom: 1.25em;}
 	padding: 1%;
 }
 
-.Mana.Colorless {background: rgb(216, 204, 204);}
+.Mana.Colorless, .Mana.Black {background: rgb(216, 204, 204);}
 .Mana.White {background: rgb(230,224,191); color: rgb(230,224,191);}
 .Mana.Blue {background: rgb(13, 177, 249); color: rgb(13, 177, 249);}
-.Mana.Black {background: rgb(0, 0, 0); color: rgb(0, 0, 0);}
 .Mana.Red {background: rgb(222, 22, 22); color: rgb(222, 22, 22);}
 .Mana.Green {background: rgb(22, 181, 46); color: rgb(22, 181, 46);}
 
 .white {background: rgb(230,224,191) !important;}
 .blue {background: rgb(13, 177, 249) !important;}
-.black {background: rgb(0, 0, 0) !important;}
+.black {background: rgb(60, 60, 60) !important;}
 .red {background: rgb(222, 22, 22) !important;}
 .green {background: rgb(22, 181, 46) !important;}
 .multicolored {
