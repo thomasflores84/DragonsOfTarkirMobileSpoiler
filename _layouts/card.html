@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="row">
 	{% if page.image %}
-		{% if page.image contains 'http:'}
+		{% if page.image contains 'http:' %}
   			<img class="columns small-6 medium-6 large-4" src="{{ page.image }}">
 		{% else %}
   			<img class="columns small-6 medium-6 large-4" src="{{ site.baseurl }}/img/{{ page.image }}">
