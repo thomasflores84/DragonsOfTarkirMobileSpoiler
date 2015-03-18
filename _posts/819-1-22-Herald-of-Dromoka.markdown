@@ -11,4 +11,6 @@ cost: "1W"
 flavor: "The trumpeters of Arashin are ever alert in their watch over the Great Aerie."
 ---
 
+Vigilance
+
 Other Warrior creatures you control have Vigilance.

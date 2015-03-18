@@ -10,4 +10,6 @@ cost: "1U"
 flavor: "Who you are constantly runs toward who you will be."
 ---
 
+Enchant creature
+
 Whenever enchanted creature attacks, you may put a token onto the battlefield that's a copy of that creature.  Exile that token at end of combat.

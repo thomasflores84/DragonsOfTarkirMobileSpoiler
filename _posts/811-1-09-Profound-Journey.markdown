@@ -10,4 +10,6 @@ cost: "5WW"
 flavor: ""
 ---
 
+Return target permanent card from your graveyard to the battlefield.
+
 Rebound

@@ -11,4 +11,6 @@ cost: "5BB"
 flavor: ""
 ---
 
+Flying
+
 When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.

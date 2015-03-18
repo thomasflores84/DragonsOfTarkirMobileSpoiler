@@ -11,4 +11,6 @@ cost: "R"
 flavor: ""
 ---
 
+<span class="tip mana-icon mana-red" title="1 Red Mana">R</span>: Lightning Berseker gets +1/+0 until end of turn.
+
 Dash <span class="tip mana-icon mana-red" title="1 Red Mana">R</span> <em>(You may cast this spell for its dash cost. If you do, it gains haste and is returned to its owner's hand at the beginning of the next end step.)</em>

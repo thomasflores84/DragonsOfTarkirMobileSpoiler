@@ -10,4 +10,6 @@ cost: "1W"
 flavor: ""
 ---
 
+Target creature gets +2/+2 until end of turn.
+
 Rebound <em>(When you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</em>

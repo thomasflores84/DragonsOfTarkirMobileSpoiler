@@ -10,4 +10,8 @@ cost: "4R"
 flavor: "&quot;As we have learned from Kolaghan, to ruin is to rule.&quot; - Shensu, Kolaghan Rider"
 ---
 
+Choose one or both -
 
+Destroy target artifact.
+
+Destroy target land.

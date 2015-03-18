@@ -10,4 +10,6 @@ cost: "3U"
 flavor: ""
 ---
 
+Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+
 Rebound <em>(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast it from exile without paying its mana cost.)</em>

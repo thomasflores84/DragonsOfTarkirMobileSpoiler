@@ -11,7 +11,11 @@ flavor: ""
 ---
 
 Choose two â€”
+
 &bull; Your opponents can't gain life this turn.
+
 &bull; Atarka's Command deals 3 damage to each opponent.
+
 &bull; You may put a land card from your hand onto the battlefield.
+
 &bull; Creatures you control get +1/+1 and gain reach until end of turn.

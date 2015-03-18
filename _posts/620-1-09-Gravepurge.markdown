@@ -10,4 +10,6 @@ cost: "2B"
 flavor: "&quot;Lord Silumgar has given you a second chance to please him.&quot;"
 ---
 
+Put any number of target creature cards from your graveyard on top of your library.
+
 Draw a card.

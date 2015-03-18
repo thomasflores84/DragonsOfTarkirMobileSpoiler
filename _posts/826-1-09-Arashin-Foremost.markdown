@@ -11,4 +11,6 @@ cost: "1WW"
 flavor: "&quot;I would gladly give my life if it would inspire my clan to victory.&quot;"
 ---
 
+Double Strike
+
 Whenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn.

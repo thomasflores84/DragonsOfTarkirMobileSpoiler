@@ -12,4 +12,5 @@ flavor: "Silumgar never passes up an opportunity to add to his opulence."
 ---
 
 Flying, deathtouch
+
 When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar.

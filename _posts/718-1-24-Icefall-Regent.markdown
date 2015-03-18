@@ -11,4 +11,8 @@ cost: "3UU"
 flavor: ""
 ---
 
+Flying
+
+When Icefall Regent enters the battlefield, tap target creature an opponent controls.  That creature doesn't untap during its controller's uptanp step for as long as you control Icefall Regent.
+
 Spells your opponents cast that target Icefall Regent cost <span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span> more to cast.

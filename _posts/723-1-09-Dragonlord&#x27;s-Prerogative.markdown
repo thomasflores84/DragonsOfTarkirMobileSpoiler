@@ -10,4 +10,8 @@ cost: "4UU"
 flavor: ""
 ---
 
+As an additional cost to cast Dragonlord's Prerogative, you may reveal a Dragon card from your hand.
+
+If you revealed a Dragon card or controlled a Dragon as you cast Dragonlord's Prerogative, Dragonlord's Prerogative can't be countered.
+
 Draw four cards.

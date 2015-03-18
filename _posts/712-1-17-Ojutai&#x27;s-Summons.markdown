@@ -10,4 +10,6 @@ cost: "3UU"
 flavor: ""
 ---
 
+Put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.
+
 Rebound

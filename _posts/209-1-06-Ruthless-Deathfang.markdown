@@ -12,4 +12,5 @@ flavor: "&quot;Bring forth the dead, their skull-grins and rattle-bones.  We wil
 ---
 
 Flying
+
 Whenever you sacrifice a creature, target opponent sacrifices a creature.

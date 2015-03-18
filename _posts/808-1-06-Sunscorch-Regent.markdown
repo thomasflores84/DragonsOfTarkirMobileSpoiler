@@ -11,4 +11,6 @@ cost: "3WW"
 flavor: "&quot;We trust in the scalelords, bringers of justice that none can escape.&quot;"
 ---
 
+Flying
+
 Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life.

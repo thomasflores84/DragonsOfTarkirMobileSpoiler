@@ -10,4 +10,8 @@ cost: "W"
 flavor: ""
 ---
 
+Enchant creature. 
+
+When Glaring Aegis enters the battlefield, tap target creature an opponent controls.
+
 Enchanted creature gets +1/+3.

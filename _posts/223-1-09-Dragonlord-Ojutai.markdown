@@ -12,5 +12,7 @@ flavor: ""
 ---
 
 Flying
+
 Dragonlord Ojutai has hexproof as long as it's untapped.
+
 Whenever Dragonlord Ojutai deals combat damage to a player, look at the top three cards of your library.  Put one of them into your hand and the rest on the bottom of your library in any order.

@@ -12,5 +12,7 @@ flavor: ""
 ---
 
 Flying, haste
+
 Other creatures you control have haste.
+
 Whenever an opponent casts a creature or planeswalker spell with the same name as a card in his or her graveyard, that player loses 10 life.

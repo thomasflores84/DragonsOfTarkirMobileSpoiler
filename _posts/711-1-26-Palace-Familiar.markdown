@@ -11,4 +11,6 @@ cost: "1U"
 flavor: "&quot;The most profound secrets lie in the darkest places of the world. It can be prudent to make use of another set of eyes.&quot;"
 ---
 
+Flying
+
 When Palace Familiar dies, draw a card.

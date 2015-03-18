@@ -11,4 +11,6 @@ cost: "U"
 flavor: "&quot;I tire of your prattle, and your face.&quot;"
 ---
 
+Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
+
 When Sidisi's Faithful exploits a creature, return target creature to its owner's hand.

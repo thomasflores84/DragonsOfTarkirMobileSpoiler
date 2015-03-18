@@ -10,4 +10,6 @@ cost: "2B"
 flavor: ""
 ---
 
+As an additional cost to cast Foul-Tongue Invocation, you may reveal a Dragon card from your hand.
+
 Target player sacrifices a creature. If you revealed a Dragon card or controlled a Dragon as you cast Foul-Tongue Invocation, you gain 4 life.

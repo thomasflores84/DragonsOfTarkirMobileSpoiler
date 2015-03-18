@@ -10,4 +10,6 @@ cost: "1R"
 flavor: ""
 ---
 
+As an additional cost to cast Draconic Roar, you may reveal a Dragon card from your hand.
+
 Draconic Roar deals 3 damage to target creature.  If you revealed a Dragon card or controlled a Dragon as you cast Draconic Roar, Draconic Roar deals 3 damage to that creature's controller.

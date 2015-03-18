@@ -10,4 +10,6 @@ cost: "1R"
 flavor: "A mocking laughter echoed in Ugin&#x27;s Mind. How many centuries had he slumbered, stricken, while Nicol Bolas moved unchallenged among the planes?"
 ---
 
+As an additional cost to cast Tormenting Voice, discard a card.
+
 Draw two cards.

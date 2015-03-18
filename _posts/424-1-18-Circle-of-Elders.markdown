@@ -11,4 +11,6 @@ cost: "2GG"
 flavor: "They whisper of an ancient hero who saved the dragons of their world."
 ---
 
+Vigilance
+
 <em>Formidable</em> - <span class="tip mana-icon mana-t" title="Tap">T</span>: Add <span class="tip mana-icon mana-colorless-03" title="3 Colorless Mana">3</span> to your mana pool. Activate this ability only if creatures you control have combined power 8 or greater.

@@ -10,4 +10,6 @@ cost: "R"
 flavor: "The sky offers few hiding places."
 ---
 
+Rending Volley can't be countered by spells or abilities.
+
 Rending Volley deals 4 damage to target white or blue creature.

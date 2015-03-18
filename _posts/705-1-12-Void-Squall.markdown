@@ -10,4 +10,6 @@ cost: "4U"
 flavor: ""
 ---
 
+Return target nonland permanent to its owner's hand
+
 Rebound <em>(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast it from exile without paying its mana cost.)</em>

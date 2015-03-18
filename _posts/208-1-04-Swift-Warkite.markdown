@@ -12,4 +12,5 @@ flavor: ""
 ---
 
 Flying
+
 When Swift Warkite enters the battlefield, you may put a creature card with converted mana cost 3 or less from your hand or graveyard onto the battlefield.  That creature gains haste.  Return it to your hand at the beginning of the next end step.

@@ -11,4 +11,6 @@ cost: "4B"
 flavor: "Debts to rakshasa linger beyond death."
 ---
 
+Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
+
 When Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield.

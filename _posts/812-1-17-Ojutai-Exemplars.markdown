@@ -11,4 +11,10 @@ cost: "2WW"
 flavor: ""
 ---
 
+Whenever you cast a noncreature spell, choose one â€”
+
+&bull; Tap target creature.
+
+&bull; Ojutai Exemplars gains first strike and lifelink until end of turn.
+
 &bull; Exile Ojutai Exemplars, then return it to the battlefield tapped under its owner's control.

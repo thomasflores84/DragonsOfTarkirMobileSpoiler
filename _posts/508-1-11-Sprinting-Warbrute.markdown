@@ -11,4 +11,6 @@ cost: "4R"
 flavor: ""
 ---
 
+Sprinting Warbrute attacks each turn if able.
+
 Dash <span class="tip mana-icon mana-colorless-03" title="3 Colorless Mana">3</span><span class="tip mana-icon mana-red" title="1 Red Mana">R</span>

@@ -11,7 +11,11 @@ flavor: ""
 ---
 
 Choose two â€”
+
 &bull; Prevent all damage target instant or sorcery spell would deal this turn.
+
 &bull; Target player sacrifices an enchantment.
+
 &bull; Put a +1/+1 counter on target creature.
+
 &bull; Target creature you control fights target creature you don't control.

@@ -12,4 +12,5 @@ flavor: "Only the sun that beats down upon Arashin&#x27;s walls could shine more
 ---
 
 Flying
+
 Whenever one or more +1/+1 counters are placed on another creature you control, you may put a +1/+1 counter on Enduring Scalelord.

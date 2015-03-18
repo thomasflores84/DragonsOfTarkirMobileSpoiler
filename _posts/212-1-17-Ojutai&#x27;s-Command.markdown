@@ -13,6 +13,9 @@ flavor: ""
 Choose two â€”
 
 &bull; Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+
 &bull; You gain 4 life.
+
 &bull; Counter target creature spell.
+
 &bull; Draw a card.

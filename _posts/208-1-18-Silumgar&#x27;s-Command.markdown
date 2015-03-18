@@ -11,7 +11,11 @@ flavor: ""
 ---
 
 Chose two â€”
+
 &bull; Counter target noncreature spell.
+
 &bull; Return target permanent to its owner's hand.
+
 &bull; Target creature gets -3/-3 until end of turn.
+
 &bull; Destroy target planeswalker.

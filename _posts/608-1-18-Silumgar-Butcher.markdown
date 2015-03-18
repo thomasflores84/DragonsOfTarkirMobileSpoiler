@@ -11,4 +11,6 @@ cost: "4B"
 flavor: "Silumgar takes pride in the diversity of his sibsig."
 ---
 
+Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
+
 When Silumgar Butcher exploits a creature, target creature gets -3/-3 until end of turn.

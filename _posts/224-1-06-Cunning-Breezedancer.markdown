@@ -12,4 +12,5 @@ flavor: "&quot;That which is beautiful in form can also be deadly.&quot;"
 ---
 
 Flying
+
 Whenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until end of turn.
