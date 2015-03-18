@@ -11,5 +11,4 @@ cost: "3"
 flavor: "Silumgar delights in repurposing the treasures of other clans to serve his own ravenous greed."
 ---
 
-Defender
 Custodian of the Trove enters the battlefield tapped.

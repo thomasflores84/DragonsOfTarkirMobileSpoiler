@@ -11,6 +11,4 @@ cost: "GG"
 flavor: ""
 ---
 
-As an additional cost to cast Scaleguard Sentinels, you may reveal a Dragon card from your hand.
-
 Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast Scaleguard Sentinels.

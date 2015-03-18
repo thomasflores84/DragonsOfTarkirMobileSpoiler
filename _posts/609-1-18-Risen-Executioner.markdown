@@ -11,6 +11,4 @@ cost: "2BB"
 flavor: ""
 ---
 
-Risen Executioner can't block.
-Other Zombie creatures you control get +1/+1.
 You may cast Risen Executioner from your graveyard if you pay <span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span> more to cast it for each other creature card in your graveyard.

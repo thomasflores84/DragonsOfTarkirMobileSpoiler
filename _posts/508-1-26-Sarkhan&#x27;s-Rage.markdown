@@ -10,4 +10,4 @@ cost: "4R"
 flavor: "The people of Tarkir speak of an ancient legend, of a dragon-man named Sarkhan who was the greatest of all Khans."
 ---
 
-Sarkhan's Rage deals 5 damage to target creature or player. If you control no Dragons, Sarkhan's Rage deals 2 damage to you.
+

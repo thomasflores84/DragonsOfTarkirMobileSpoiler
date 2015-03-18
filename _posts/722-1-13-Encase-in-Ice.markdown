@@ -10,7 +10,4 @@ cost: "1U"
 flavor: ""
 ---
 
-Flash
-Enchant red or green creature
-When Encase in Ice enters the battlefield, tap enchanted creature.
 Enchanted creature doesn't untap during its controller's untap step.

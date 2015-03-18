@@ -11,6 +11,4 @@ cost: "1G"
 flavor: ""
 ---
 
-Defender
-
 <em>Formidable</em> - <span class="tip mana-icon mana-green" title="1 Green Mana">G</span>: Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater.

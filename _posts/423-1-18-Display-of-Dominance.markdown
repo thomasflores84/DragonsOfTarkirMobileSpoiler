@@ -10,6 +10,4 @@ cost: "1G"
 flavor: ""
 ---
 
-Choose one â€”
-&bull; Destroy target blue or black noncreature permanent.
 &bull; Permanents you control can't be the targets of blue or black spells your opponents control this turn.

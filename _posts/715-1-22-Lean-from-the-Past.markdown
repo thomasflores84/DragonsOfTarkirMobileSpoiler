@@ -10,6 +10,4 @@ cost: "3U"
 flavor: "&quot;I&#x27;ve been told all my life that the great Ojutai hols all knowledge, but I wonder what our forebears knew.&quot;"
 ---
 
-Target player shuffles his or her graveyard into his or her library.
-
 Draw a card.

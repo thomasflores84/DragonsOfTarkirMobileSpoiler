@@ -10,8 +10,4 @@ cost: "3UU"
 flavor: ""
 ---
 
-Enchant creature
-
-You control enchanted creature.
-
 Whenever a creature enters the battlefield under an opponent's control, attach Illusory Gains to that creature.

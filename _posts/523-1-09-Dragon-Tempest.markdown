@@ -10,6 +10,4 @@ cost: "1R"
 flavor: ""
 ---
 
-Whenever a creature with flying enters the battlefield under your control, it gains haste until end of turn.
-
 Whenever a Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control.

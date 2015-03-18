@@ -11,6 +11,4 @@ cost: "3U"
 flavor: ""
 ---
 
-Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
-
 When Gurmag Drowner exploits a creature, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.

@@ -10,5 +10,4 @@ cost: "G"
 flavor: ""
 ---
 
-Face-down creature spells you cast cost <span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span> less to cast.
 <span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span>: Turn Obscuring Aether face down. <em>(It becomes a 2/2 creature.)</em>

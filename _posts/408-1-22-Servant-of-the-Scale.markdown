@@ -11,5 +11,4 @@ cost: "G"
 flavor: ""
 ---
 
-Servant of the Scale enters the battlefield with a +1/+1 counter on it.
 When Servant of the Scale dies, put X +1/+1 counters on target creature you control, where X is the number of +1/+1 counters on Servant of the Scale.

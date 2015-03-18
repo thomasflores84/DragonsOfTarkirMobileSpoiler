@@ -11,8 +11,4 @@ cost: "3B"
 flavor: ""
 ---
 
-Flying
-
-Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
-
 When Vulturous Aven exploits a creature, you draw two cards and you lose 2 life.

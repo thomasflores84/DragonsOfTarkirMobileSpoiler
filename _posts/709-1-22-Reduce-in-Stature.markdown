@@ -10,6 +10,4 @@ cost: "2U"
 flavor: "A dragon learns humility only in the moments before its death."
 ---
 
-Enchant creature
-
 Enchanted creature has base power and toughness 0/2.

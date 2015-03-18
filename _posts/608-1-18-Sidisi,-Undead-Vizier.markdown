@@ -11,8 +11,4 @@ cost: "3BB"
 flavor: ""
 ---
 
-Deathtouch
-
-Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
-
 When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.

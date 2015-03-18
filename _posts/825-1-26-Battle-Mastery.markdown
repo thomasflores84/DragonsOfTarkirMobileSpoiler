@@ -10,6 +10,4 @@ cost: "2W"
 flavor: "&quot;There is elegance in everything the Ojutai do - even their killing.&quot;"
 ---
 
-Enchant creature
-
 Enchanted creature has double strike. <em>(It deals both first-strike and regular combat damage.)</em>

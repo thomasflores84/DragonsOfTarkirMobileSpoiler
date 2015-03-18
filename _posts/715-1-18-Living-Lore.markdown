@@ -11,8 +11,4 @@ cost: "3U"
 flavor: ""
 ---
 
-As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.
-
-Living Lore's power and toughness are each equal to the exiled card's converted mana cost.
-
 When Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.

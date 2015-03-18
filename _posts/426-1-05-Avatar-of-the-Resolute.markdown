@@ -11,6 +11,4 @@ cost: "GG"
 flavor: "It exemplifies the ideals of the Dromoka: strength, unity, and honor."
 ---
 
-Reach, trample
-
 Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for each other creature you control with a +1/+1 counter on it.

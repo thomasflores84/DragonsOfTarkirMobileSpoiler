@@ -11,6 +11,4 @@ cost: "1B"
 flavor: "Dying for the greater good still hurts."
 ---
 
-Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
-
 When Qarsi Sadist exploits a creature, target opponent loses 2 life and you gain 2 life.

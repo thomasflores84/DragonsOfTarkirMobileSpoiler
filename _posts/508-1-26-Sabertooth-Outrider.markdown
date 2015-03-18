@@ -11,5 +11,4 @@ cost: "3R"
 flavor: ""
 ---
 
-Trample
-<em>Formidable</em> - Whenever Sabertooth Outrider attacks, it gains first strike until end of turn as long as creatures you control have total power 8 or greater.
+

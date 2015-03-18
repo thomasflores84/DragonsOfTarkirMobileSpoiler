@@ -10,5 +10,4 @@ cost: "2G"
 flavor: "Dromoka&#x27;s scalelords patrol the skies over Arashin, offering her people safety from the harsh world."
 ---
 
-Enchant land
 Enchanted land has "<span class="tip mana-icon mana-t" title="Tap">T</span>: Add two mana of any one color to your mana pool."

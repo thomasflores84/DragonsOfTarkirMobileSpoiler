@@ -11,6 +11,4 @@ cost: "2B"
 flavor: "Draconic words need not be shouted. A whisper will suffice."
 ---
 
-Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
-
 When Minister of Pain exploits a creature, creatures your opponents control get -1/-1 until end of turn.

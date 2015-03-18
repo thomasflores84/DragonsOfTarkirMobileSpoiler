@@ -11,6 +11,4 @@ cost: "2W"
 flavor: "We fight not out of fear, but for honor."
 ---
 
-First strike
-
 Whenever Dromoka Captain attacks, bolster 1. <em>(Choose a creature with the least toughness among creatures you control. Put a +1/+1 counter on it.)</em>

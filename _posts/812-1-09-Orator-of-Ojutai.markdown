@@ -11,8 +11,4 @@ cost: "1W"
 flavor: ""
 ---
 
-As an additional cost to cast Orator of Ojutai, you may reveal a Dragon card from your hand.
-
-Defender, flying
-
 When Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast Orator of Ojutai, draw a card.

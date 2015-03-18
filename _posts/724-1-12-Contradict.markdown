@@ -10,6 +10,4 @@ cost: "3UU"
 flavor: "Those who question Ojutai may not like the answers they receive."
 ---
 
-Counter target spell.
-
 Draw a card.

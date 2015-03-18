@@ -11,6 +11,4 @@ cost: "3U"
 flavor: ""
 ---
 
-Exploit <em>(When this creature enters the battlefield, you may sacrifice a creature.)</em>
-
 When Profaner of the Dead exploits a creature, return to their owners' hands all creatures your opponents control with toughness less than the exploited creature's toughness.

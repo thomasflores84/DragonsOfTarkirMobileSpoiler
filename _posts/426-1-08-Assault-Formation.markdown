@@ -10,8 +10,4 @@ cost: "1G"
 flavor: ""
 ---
 
-Each creature you control assigns combat damage equal to its toughness rather than its power.
-
-<span class="tip mana-icon mana-green" title="1 Green Mana">G</span>: Target creature with defender can attack this turn as though it didn't have defender.
-
 <span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span>: Creatures you control get +0/+1 until end of turn.
