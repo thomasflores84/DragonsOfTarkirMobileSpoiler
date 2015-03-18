@@ -11,4 +11,4 @@ cost: "2R"
 flavor: "&quot;It hunts grant game for Atarka, and when the time comes, it will become a mighty feast.&quot; - Surrak, the Hunt Caller"
 ---
 
-Qal Sisma Behemoth can't attack or block unless you pay <span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span>.
+Qal Sisma Behemoth can't attack or block unless you pay <span class="mana">2</span>.

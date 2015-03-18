@@ -11,4 +11,4 @@ cost: "1R"
 flavor: "Atarka serving-goblins coat themselves with grease imbued with noxious herbs, hoping to discourage their ravenous masters from adding them to the meal."
 ---
 
-Dragon spells you cast cost <span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span> less to cast.
+Dragon spells you cast cost <span class="mana">1</span> less to cast.

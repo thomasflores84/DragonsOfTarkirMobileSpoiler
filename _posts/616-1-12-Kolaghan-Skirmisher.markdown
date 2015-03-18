@@ -11,4 +11,4 @@ cost: "1B"
 flavor: "Kolaghan&#x27;s army rushes from kill to kill, desperate to avoid the dragon&#x27;s wrath."
 ---
 
-Dash <span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span><span class="tip mana-icon mana-black" title="1 Black Mana">B</span> <em>(You may cast this spell for its dash cost. If you do, it gains haste, and is returned from the battlefield to its owner's hand at the beginning of the next end step.)</em>
+Dash <span class="mana">2</span><span class="mana">B</span> <em>(You may cast this spell for its dash cost. If you do, it gains haste, and is returned from the battlefield to its owner's hand at the beginning of the next end step.)</em>

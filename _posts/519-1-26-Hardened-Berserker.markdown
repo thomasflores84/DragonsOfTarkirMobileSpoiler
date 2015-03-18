@@ -11,4 +11,4 @@ cost: "2R"
 flavor: "&quot;Just let him loose and follow the charge.&quot; - Yikaro, Atarka Warrior"
 ---
 
-When Hardened Berserker attacks, the next spell you cast this turn costs <span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span> less to cast.
+When Hardened Berserker attacks, the next spell you cast this turn costs <span class="mana">1</span> less to cast.

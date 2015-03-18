@@ -11,4 +11,4 @@ cost: "W"
 flavor: "The dragonlords rule the tempests of the skies. Here in the wastes, the storms are my to command.&quot;"
 ---
 
-<span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span><span class="tip mana-icon mana-white" title="1 White Mana">W</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>: Tap target creature without flying.
+<span class="mana">1</span><span class="mana">W</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>: Tap target creature without flying.

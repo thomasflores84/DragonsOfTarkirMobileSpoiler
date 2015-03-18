@@ -11,4 +11,4 @@ cost: "2G"
 flavor: "Bears are a delicacy for the Atarka. The few that remain are the toughest of their species."
 ---
 
-<em>Formidable</em> - <span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span>: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater.
+<em>Formidable</em> - <span class="mana">2</span><span class="mana">G</span>: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater.

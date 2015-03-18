@@ -11,4 +11,4 @@ cost: "1BB"
 flavor: "&quot;We are as brutal as our dragonlord.  We strike like wild lightning and feast on human flesh.&quot;"
 ---
 
-<span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span><span class="tip mana-icon mana-black" title="1 Black Mana">B</span>, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.
+<span class="mana">1</span><span class="mana">B</span>, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.

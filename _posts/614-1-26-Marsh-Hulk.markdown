@@ -11,4 +11,4 @@ cost: "4BB"
 flavor: "Now vengeance is his sole purpose."
 ---
 
-Megamorph <span class="tip mana-icon mana-colorless-06" title="6 Colorless Mana">6</span><span class="tip mana-icon mana-black" title="1 Black Mana">B</span> <em>(You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)</em>
+Megamorph <span class="mana">6</span><span class="mana">B</span> <em>(You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)</em>
