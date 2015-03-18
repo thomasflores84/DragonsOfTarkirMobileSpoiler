@@ -3,7 +3,11 @@ layout: default
 ---
 <div class="row">
 	{% if page.image %}
-  		<img class="columns small-6 medium-6 large-4" src="{{ site.baseurl }}/img/{{ page.image }}">
+		{% if page.image contains 'http:'}
+  			<img class="columns small-6 medium-6 large-4" src="{{ page.image }}">
+		{% else %}
+  			<img class="columns small-6 medium-6 large-4" src="{{ site.baseurl }}/img/{{ page.image }}">
+		{% endif %}
 	{% endif %}
 	<div class="columns small-6 medium-6 large-4 end">
 		<div class="cardwrapper">
