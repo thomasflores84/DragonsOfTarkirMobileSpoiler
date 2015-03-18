@@ -6,7 +6,7 @@ categories: sorcery red
 type: "Sorcery"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/49/200/283/635612325408419784.png"
-cost: "1R"
+cost: "<span class="Colorless Mana">1</span><span class="Red Mana">R</span>"
 flavor: "&quot;Intruders in the lands of Atarka have but two choices: be consumed by fire, or be consumed by maw.&quot;"
 ---
 

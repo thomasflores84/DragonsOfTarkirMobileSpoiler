@@ -7,7 +7,7 @@ type: "Planeswalker - Narset"
 rarity: "M"
 attack: "6"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/956/200/283/635610604922591953.png"
-cost: "2WU"
+cost: "<span class="Colorless Mana">2</span><span class="White Mana">W</span><span class="Blue Mana">U</span>"
 flavor: ""
 ---
 

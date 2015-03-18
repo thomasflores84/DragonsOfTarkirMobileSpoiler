@@ -6,7 +6,7 @@ categories: instant black
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/388/200/283/635618469981782723.png"
-cost: "B"
+cost: "<span class="Black Mana">B</span>"
 flavor: "Foul-Tongue shamans draw their powers from a dark twisting of the Draconic language."
 ---
 

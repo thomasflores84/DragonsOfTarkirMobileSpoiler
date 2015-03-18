@@ -6,7 +6,7 @@ categories: enchantment white
 type: "Enchantment"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/248/200/283/635617130337903273.jpeg"
-cost: "1W"
+cost: "<span class="Colorless Mana">1</span><span class="White Mana">W</span>"
 flavor: "Better scarves than scars."
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Lizard Beast"
 rarity: "M"
 attack: "3/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/83/200/283/635612653665280586.png"
-cost: "1GG"
+cost: "<span class="Colorless Mana">1</span><span class="Green Mana">G</span><span class="Green Mana">G</span>"
 flavor: ""
 ---
 

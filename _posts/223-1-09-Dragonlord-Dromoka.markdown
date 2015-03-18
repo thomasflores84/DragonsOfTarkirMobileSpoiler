@@ -7,7 +7,7 @@ type: "Legendary Creature - Elder Dragon"
 rarity: "M"
 attack: "5/7"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/4/200/283/635611453466389491.png"
-cost: "4GW"
+cost: "<span class="Colorless Mana">4</span><span class="Green Mana">G</span><span class="White Mana">W</span>"
 flavor: "Dromoka&#x27;s followers forsake blood ties so that they may join a greater family."
 ---
 

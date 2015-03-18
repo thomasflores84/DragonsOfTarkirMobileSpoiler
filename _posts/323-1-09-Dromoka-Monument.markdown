@@ -6,7 +6,7 @@ categories: artifact colorless
 type: "Artifact"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/214/200/283/635616653753970285.png"
-cost: "3"
+cost: "<span class="Colorless Mana">3</span>"
 flavor: "Dromoka rules her clan from the Great Aerie atop Arashin, the central city of the Shifting Wastes."
 ---
 

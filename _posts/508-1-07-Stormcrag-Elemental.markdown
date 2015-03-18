@@ -7,7 +7,7 @@ type: "Creature - Elemental"
 rarity: "U"
 attack: "5/5"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/964/200/283/635610610067941429.png"
-cost: "5R"
+cost: "<span class="Colorless Mana">5</span><span class="Red Mana">R</span>"
 flavor: "The storms of Tarkir awaken more than dragons."
 ---
 

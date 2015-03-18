@@ -7,7 +7,7 @@ type: "Creature - Human Warrior"
 rarity: "U"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/370/200/283/635618456596883245.png"
-cost: "1B"
+cost: "<span class="Colorless Mana">1</span><span class="Black Mana">B</span>"
 flavor: "Kologhan blades rarely stay clean for long"
 ---
 

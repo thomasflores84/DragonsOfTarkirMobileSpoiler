@@ -7,7 +7,7 @@ type: "Legendary Creature - Orc Warrior"
 rarity: "R"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/5/200/283/635611453784460049.png"
-cost: "R"
+cost: "<span class="Red Mana">R</span>"
 flavor: ""
 ---
 

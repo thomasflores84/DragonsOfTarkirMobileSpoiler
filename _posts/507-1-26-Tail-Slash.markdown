@@ -6,7 +6,7 @@ categories: instant red
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/406/200/283/635618477649087939.png"
-cost: "2R"
+cost: "<span class="Colorless Mana">2</span><span class="Red Mana">R</span>"
 flavor: "&quot;Kneel before a dragon and you will be spared when it turns to leave.&quot; - Yikaro, Atarka Warrior"
 ---
 

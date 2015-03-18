@@ -7,7 +7,7 @@ type: "Creature - Orc Shaman"
 rarity: "U"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/366/200/283/635618453683018025.png"
-cost: "2B"
+cost: "<span class="Colorless Mana">2</span><span class="Black Mana">B</span>"
 flavor: ""
 ---
 

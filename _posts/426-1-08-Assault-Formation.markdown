@@ -6,7 +6,7 @@ categories: enchantment green
 type: "Enchantment"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/180/200/283/635615774268231198.png"
-cost: "1G"
+cost: "<span class="Colorless Mana">1</span><span class="Green Mana">G</span>"
 flavor: ""
 ---
 

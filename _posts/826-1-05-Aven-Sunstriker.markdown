@@ -7,7 +7,7 @@ type: "Creature - Bird Warrior"
 rarity: "U"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/957/200/283/635610605772831079.png"
-cost: "1WW"
+cost: "<span class="Colorless Mana">1</span><span class="White Mana">W</span><span class="White Mana">W</span>"
 flavor: ""
 ---
 

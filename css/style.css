@@ -80,3 +80,9 @@ p {margin-bottom: 1.25em;}
 	border-radius: .6em;
 	padding: 0 .5em;
 }
+
+.Mana {
+	border-radius: 50%;
+	background: gray;
+	
+}

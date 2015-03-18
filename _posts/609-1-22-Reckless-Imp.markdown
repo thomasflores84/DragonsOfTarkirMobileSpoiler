@@ -7,7 +7,7 @@ type: "Creature - Imp"
 rarity: "C"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/412/200/283/635618480246453341.png"
-cost: "2B"
+cost: "<span class="Colorless Mana">2</span><span class="Black Mana">B</span>"
 flavor: ""
 ---
 

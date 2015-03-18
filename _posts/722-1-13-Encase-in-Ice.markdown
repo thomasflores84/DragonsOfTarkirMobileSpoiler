@@ -6,7 +6,7 @@ categories: enchantment blue
 type: "Enchantment - Aura"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/151/200/283/635614919405321511.png"
-cost: "1U"
+cost: "<span class="Colorless Mana">1</span><span class="Blue Mana">U</span>"
 flavor: ""
 ---
 

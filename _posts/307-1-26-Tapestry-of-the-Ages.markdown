@@ -6,7 +6,7 @@ categories: artifact colorless
 type: "Artifact"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/222/200/283/635616660771050071.png"
-cost: "4"
+cost: "<span class="Colorless Mana">4</span>"
 flavor: "&quot;Abzan, Jeskai, Sultai, Mardu, Temurâ€” names lost to history, yet worthy of further study.&quot;"
 ---
 

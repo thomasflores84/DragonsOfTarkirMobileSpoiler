@@ -6,7 +6,7 @@ categories: enchantment white
 type: "Enchantment"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/262/200/283/635617503822164240.png"
-cost: "W"
+cost: "<span class="White Mana">W</span>"
 flavor: ""
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Hound Archer"
 rarity: "C"
 attack: "3/4"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/909/200/283/635608922201949606.png"
-cost: "2GG"
+cost: "<span class="Colorless Mana">2</span><span class="Green Mana">G</span><span class="Green Mana">G</span>"
 flavor: ""
 ---
 

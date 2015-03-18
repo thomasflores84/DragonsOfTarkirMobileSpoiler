@@ -6,7 +6,7 @@ categories: instant red
 type: "Instant"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/224/200/283/635616661863381795.png"
-cost: "R"
+cost: "<span class="Red Mana">R</span>"
 flavor: "The sky offers few hiding places."
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Human Warrior"
 rarity: "C"
 attack: "2/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/345/200/283/635618433023620926.png"
-cost: "1W"
+cost: "<span class="Colorless Mana">1</span><span class="White Mana">W</span>"
 flavor: "&quot;The greatest gift Dromoka gives is the ability to fly without wings.&quot;"
 ---
 

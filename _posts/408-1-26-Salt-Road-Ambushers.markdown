@@ -7,7 +7,7 @@ type: "Creature - Hound Warrior"
 rarity: "U"
 attack: "3/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/965/200/283/635610611520627799.png"
-cost: "3G"
+cost: "<span class="Colorless Mana">3</span><span class="Green Mana">G</span>"
 flavor: ""
 ---
 

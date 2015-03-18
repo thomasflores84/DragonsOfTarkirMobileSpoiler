@@ -6,7 +6,7 @@ categories: artifact colorless
 type: "Artifact"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/227/200/283/635616677038589148.png"
-cost: "3"
+cost: "<span class="Colorless Mana">3</span>"
 flavor: "Atarka is worshipped and fed by her subjects at Ayagor, the Dragon&#x27;s Bowl."
 ---
 

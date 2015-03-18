@@ -7,7 +7,7 @@ type: "Creature - Human Shaman"
 rarity: "C"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/360/200/283/635618446207801218.png"
-cost: "R"
+cost: "<span class="Red Mana">R</span>"
 flavor: ""
 ---
 

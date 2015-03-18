@@ -6,7 +6,7 @@ categories: instant red
 type: "Instant"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/181/200/283/635615776106173848.png"
-cost: "1R"
+cost: "<span class="Colorless Mana">1</span><span class="Red Mana">R</span>"
 flavor: ""
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Salamander"
 rarity: "U"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/959/200/283/635610607038373985.png"
-cost: "U"
+cost: "<span class="Blue Mana">U</span>"
 flavor: "The small are mostly ignored by dragons."
 ---
 

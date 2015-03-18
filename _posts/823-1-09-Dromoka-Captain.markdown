@@ -7,7 +7,7 @@ type: "Creature - Human Soldier"
 rarity: "U"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/329/200/283/635618412850056615.png"
-cost: "2W"
+cost: "<span class="Colorless Mana">2</span><span class="White Mana">W</span>"
 flavor: "We fight not out of fear, but for honor."
 ---
 

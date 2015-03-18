@@ -6,7 +6,7 @@ categories: sorcery blue
 type: "Sorcery"
 rarity: "M"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/263/200/283/635617506698580728.png"
-cost: "7UU"
+cost: "<span class="Colorless Mana">7</span><span class="Blue Mana">U</span><span class="Blue Mana">U</span>"
 flavor: "Their lust for battle was so great that they didn&#x27;t care their enemies wore their own faces."
 ---
 

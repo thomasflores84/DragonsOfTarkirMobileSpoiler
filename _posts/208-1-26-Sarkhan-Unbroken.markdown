@@ -7,7 +7,7 @@ type: "Planeswalker - Sarkhan"
 rarity: "M"
 attack: "4"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/63/200/283/635612497030698793.png"
-cost: "2GUR"
+cost: "<span class="Colorless Mana">2</span><span class="Green Mana">G</span><span class="Blue Mana">U</span><span class="Red Mana">R</span>"
 flavor: ""
 ---
 

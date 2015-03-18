@@ -6,7 +6,7 @@ categories: instant red
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/355/200/283/635618440445187732.png"
-cost: "R"
+cost: "<span class="Red Mana">R</span>"
 flavor: "&quot;It is most honorable to use every part of the animals we kill... especially if we use them to annihilate our enemies.&quot; - Surrak, the Hunt Caller"
 ---
 

@@ -6,7 +6,7 @@ categories: artifact colorless
 type: "Artifact"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/216/200/283/635616655519113573.png"
-cost: "3"
+cost: "<span class="Colorless Mana">3</span>"
 flavor: "Silumgar dominates his clan from a fortress on the Marang River, where he rests upon piles of treasure."
 ---
 

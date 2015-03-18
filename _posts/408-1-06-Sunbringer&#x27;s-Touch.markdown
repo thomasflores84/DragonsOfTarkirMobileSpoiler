@@ -6,7 +6,7 @@ categories: sorcery green
 type: "Sorcery"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/59/200/283/635612492494496435.png"
-cost: "2GG"
+cost: "<span class="Colorless Mana">2</span><span class="Green Mana">G</span><span class="Green Mana">G</span>"
 flavor: ""
 ---
 

@@ -6,7 +6,7 @@ categories: instant blue
 type: "Instant"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/368/200/283/635618455214242314.png"
-cost: "3U"
+cost: "<span class="Colorless Mana">3</span><span class="Blue Mana">U</span>"
 flavor: ""
 ---
 
