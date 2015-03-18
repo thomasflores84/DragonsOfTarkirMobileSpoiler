@@ -7,7 +7,7 @@ type: "Creature - Serpent"
 rarity: "C"
 attack: "6/5"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/376/200/283/635618461204088993.png"
-cost: "<span class="Colorless Mana">5</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>5</span><span class='Blue Mana'>U</span>"
 flavor: ""
 ---
 

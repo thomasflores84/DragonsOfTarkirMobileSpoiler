@@ -6,7 +6,7 @@ categories: artifact colorless
 type: "Artifact"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/256/200/283/635617166333953432.png"
-cost: "<span class="Colorless Mana">2</span>"
+cost: "<span class='Colorless Mana'>2</span>"
 flavor: "Designed by an ancient artificer, the vials are strong enough to hold the very breath of a dragonâ€”until it&#x27;s needed."
 ---
 

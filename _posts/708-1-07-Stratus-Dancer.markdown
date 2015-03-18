@@ -7,7 +7,7 @@ type: "Creature - Djinn Monk"
 rarity: "R"
 attack: "2/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/897/200/283/635608908084903070.png"
-cost: "<span class="Colorless Mana">1</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span>"
 flavor: ""
 ---
 

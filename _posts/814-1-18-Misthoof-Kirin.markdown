@@ -7,7 +7,7 @@ type: "Creature - Kirin"
 rarity: "C"
 attack: "2/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/347/200/283/635618434696997445.png"
-cost: "<span class="Colorless Mana">2</span><span class="White Mana">W</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='White Mana'>W</span>"
 flavor: "It heralded Sarkhan&#x27;s return to Tarkir&#x27;s present."
 ---
 

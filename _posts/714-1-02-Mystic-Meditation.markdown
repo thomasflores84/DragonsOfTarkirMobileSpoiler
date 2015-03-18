@@ -6,7 +6,7 @@ categories: sorcery blue
 type: "Sorcery"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/401/200/283/635618476097944799.png"
-cost: "<span class="Colorless Mana">3</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Blue Mana'>U</span>"
 flavor: "&quot;Still the mind and quiet the heart. Only then will you hear the multiverse&#x27;s great truths.&quot;"
 ---
 

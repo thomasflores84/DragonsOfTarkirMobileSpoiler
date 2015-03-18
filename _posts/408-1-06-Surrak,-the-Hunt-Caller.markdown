@@ -7,7 +7,7 @@ type: "Legendary Creature - Human Warrior"
 rarity: "R"
 attack: "5/4"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/228/200/283/635616722920124391.png"
-cost: "<span class="Colorless Mana">2</span><span class="Green Mana">G</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Green Mana'>G</span><span class='Green Mana'>G</span>"
 flavor: "&quot;The greatest honor is to feed Atarka.&quot;"
 ---
 

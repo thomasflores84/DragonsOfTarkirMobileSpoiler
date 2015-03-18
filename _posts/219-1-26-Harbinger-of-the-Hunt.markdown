@@ -7,7 +7,7 @@ type: "Creature - Dragon"
 rarity: "R"
 attack: "5/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/935/200/283/635609750915584688.png"
-cost: "<span class="Colorless Mana">3</span><span class="Red Mana">R</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Red Mana'>R</span><span class='Green Mana'>G</span>"
 flavor: "An Atarka dragon&#x27;s exhale cooks what its inhale consumes."
 ---
 

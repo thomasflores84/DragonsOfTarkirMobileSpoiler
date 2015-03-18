@@ -7,7 +7,7 @@ type: "Creature - Human Wizard"
 rarity: "U"
 attack: "2/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/427/200/283/635618489272543407.png"
-cost: "<span class="Colorless Mana">1</span><span class="Blue Mana">U</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span><span class='Blue Mana'>U</span>"
 flavor: ""
 ---
 

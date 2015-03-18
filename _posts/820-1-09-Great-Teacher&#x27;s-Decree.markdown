@@ -6,7 +6,7 @@ categories: sorcery white
 type: "Sorcery"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/342/200/283/635618428938644131.png"
-cost: "<span class="Colorless Mana">3</span><span class="White Mana">W</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='White Mana'>W</span>"
 flavor: ""
 ---
 

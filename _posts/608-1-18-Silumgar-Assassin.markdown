@@ -7,7 +7,7 @@ type: "Creature - Human Assassin"
 rarity: "R"
 attack: "2/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/973/200/283/635610736486983937.png"
-cost: "<span class="Colorless Mana">1</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Black Mana'>B</span>"
 flavor: ""
 ---
 

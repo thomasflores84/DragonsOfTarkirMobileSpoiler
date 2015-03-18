@@ -7,7 +7,7 @@ type: "Creature - Efreet Shaman"
 rarity: "C"
 attack: "5/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/344/200/283/635618432397834440.png"
-cost: "<span class="Colorless Mana">3</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

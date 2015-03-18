@@ -7,7 +7,7 @@ type: "Creature - Naga Wizard"
 rarity: "C"
 attack: "0/4"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/422/200/283/635618486221601491.png"
-cost: "<span class="Blue Mana">U</span>"
+cost: "<span class='Blue Mana'>U</span>"
 flavor: "&quot;I tire of your prattle, and your face.&quot;"
 ---
 

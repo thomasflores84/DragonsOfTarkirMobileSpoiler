@@ -7,7 +7,7 @@ type: "Creature - Dragon"
 rarity: "U"
 attack: "3/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/73/200/283/635612639223039593.png"
-cost: "<span class="Colorless Mana">5</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>5</span><span class='Black Mana'>B</span>"
 flavor: ""
 ---
 

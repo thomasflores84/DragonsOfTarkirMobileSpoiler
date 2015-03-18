@@ -7,7 +7,7 @@ type: "Creature - Cat Demon"
 rarity: "U"
 attack: "3/6"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/410/200/283/635618479287910118.png"
-cost: "<span class="Colorless Mana">4</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Black Mana'>B</span>"
 flavor: "Debts to rakshasa linger beyond death."
 ---
 

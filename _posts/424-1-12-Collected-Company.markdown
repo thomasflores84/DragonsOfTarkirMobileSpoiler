@@ -6,7 +6,7 @@ categories: instant green
 type: "Instant"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/74/200/283/635612641265307832.png"
-cost: "<span class="Colorless Mana">3</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Green Mana'>G</span>"
 flavor: "Many can stand where one would fall."
 ---
 

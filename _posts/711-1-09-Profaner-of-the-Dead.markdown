@@ -7,7 +7,7 @@ type: "Creature - Naga Wizard"
 rarity: "R"
 attack: "3/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/416/200/283/635618481966291081.png"
-cost: "<span class="Colorless Mana">3</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Blue Mana'>U</span>"
 flavor: ""
 ---
 

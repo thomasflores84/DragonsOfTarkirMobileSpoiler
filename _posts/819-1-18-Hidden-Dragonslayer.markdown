@@ -7,7 +7,7 @@ type: "Creature - Human Warrior"
 rarity: "R"
 attack: "2/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/76/200/283/635612644252165419.png"
-cost: "<span class="Colorless Mana">1</span><span class="White Mana">W</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='White Mana'>W</span>"
 flavor: ""
 ---
 

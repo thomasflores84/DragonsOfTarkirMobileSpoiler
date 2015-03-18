@@ -6,7 +6,7 @@ categories: instant black
 type: "Instant"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/384/200/283/635618468010429749.png"
-cost: "<span class="Colorless Mana">3</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Black Mana'>B</span>"
 flavor: "The cycle of life and death is rarely pretty."
 ---
 

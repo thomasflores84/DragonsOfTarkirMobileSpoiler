@@ -6,7 +6,7 @@ categories: instant red
 type: "Instant"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/193/200/283/635616024764927037.png"
-cost: "<span class="Colorless Mana">2</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Red Mana'>R</span>"
 flavor: "Sarkhan gazed on the world around him, the dragon sweeping through its skies, and joy kindled like a fire in his soul."
 ---
 

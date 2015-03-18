@@ -7,7 +7,7 @@ type: "Creature - Orc Berserker"
 rarity: "U"
 attack: "3/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/177/200/283/635615669385635638.png"
-cost: "<span class="Colorless Mana">3</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

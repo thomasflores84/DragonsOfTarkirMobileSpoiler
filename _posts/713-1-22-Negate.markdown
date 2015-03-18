@@ -6,7 +6,7 @@ categories: instant blue
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/405/200/283/635618477577526341.png"
-cost: "<span class="Colorless Mana">1</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span>"
 flavor: "&quot;You cannot be an Ojutai monk. They prize wisdom and skill, and you have neither.&quot;"
 ---
 

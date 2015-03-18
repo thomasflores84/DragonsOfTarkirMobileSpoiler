@@ -6,7 +6,7 @@ categories: enchantment red
 type: "Enchantment"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/353/200/283/635618438942511822.png"
-cost: "<span class="Colorless Mana">1</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Red Mana'>R</span>"
 flavor: "&quot;If their ears are to the ground, we will make them bleed!&quot; - Taklai, Kolaghan Warrior"
 ---
 

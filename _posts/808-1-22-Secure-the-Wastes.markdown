@@ -6,7 +6,7 @@ categories: instant white
 type: "Instant"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/356/200/283/635618441368738770.png"
-cost: "<span class="mana-icon mana-x tip" title="X Colorless Mana">X</span><span class="White Mana">W</span>"
+cost: "<span class='mana-icon mana-x tip' title='X Colorless Mana'>X</span><span class='White Mana'>W</span>"
 flavor: "&quot;The Shifting Wastes provide our clan eternal protection. It&#x27;s our duty to return the favor.&quot;"
 ---
 

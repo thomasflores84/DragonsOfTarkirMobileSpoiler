@@ -7,7 +7,7 @@ type: "Creature - Human Warrior"
 rarity: "C"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/340/200/283/635618428731744334.png"
-cost: "<span class="Colorless Mana">1</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Green Mana'>G</span>"
 flavor: "He scorns the heavy winter garb of lesser warriors, trusting his anger to keep him warm."
 ---
 

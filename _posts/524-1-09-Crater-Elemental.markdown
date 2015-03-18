@@ -7,7 +7,7 @@ type: "Creature - Elemental"
 rarity: "R"
 attack: "0/6"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/182/200/283/635615777416677290.png"
-cost: "<span class="Colorless Mana">2</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

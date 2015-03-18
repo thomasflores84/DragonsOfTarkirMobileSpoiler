@@ -6,7 +6,7 @@ categories: sorcery black
 type: "Sorcery"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/379/200/283/635618463684161979.png"
-cost: "<span class="Black Mana">B</span>"
+cost: "<span class='Black Mana'>B</span>"
 flavor: "&quot;Wars are decided one life at a time.&quot;"
 ---
 

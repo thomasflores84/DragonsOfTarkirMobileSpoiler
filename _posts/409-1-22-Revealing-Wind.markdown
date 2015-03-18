@@ -6,7 +6,7 @@ categories: instant green
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/318/200/283/635618396886718151.png"
-cost: "<span class="Colorless Mana">2</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Green Mana'>G</span>"
 flavor: "The sands obscure the vision of others, but clarify ours."
 ---
 

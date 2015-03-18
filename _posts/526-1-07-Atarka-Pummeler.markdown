@@ -7,7 +7,7 @@ type: "Creature - Ogre Warrior"
 rarity: "U"
 attack: "4/5"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/346/200/283/635618434282916013.png"
-cost: "<span class="Colorless Mana">4</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

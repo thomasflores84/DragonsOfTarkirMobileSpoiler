@@ -6,7 +6,7 @@ categories: sorcery red
 type: "Sorcery"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/421/200/283/635618485565874200.png"
-cost: "<span class="Colorless Mana">5</span><span class="Red Mana">R</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>5</span><span class='Red Mana'>R</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

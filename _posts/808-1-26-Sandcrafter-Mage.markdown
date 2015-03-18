@@ -7,7 +7,7 @@ type: "Creature - Human Wizard"
 rarity: "C"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/904/200/283/635608915259280026.png"
-cost: "<span class="Colorless Mana">2</span><span class="White Mana">W</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='White Mana'>W</span>"
 flavor: "With heat, sand can form a delicate work of art; with pressure, an impenetrable bulwark."
 ---
 

@@ -7,7 +7,7 @@ type: "Legendary Creature - Zombie Naga"
 rarity: "R"
 attack: "4/6"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/900/200/283/635608910446116536.png"
-cost: "<span class="Colorless Mana">3</span><span class="Black Mana">B</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Black Mana'>B</span><span class='Black Mana'>B</span>"
 flavor: ""
 ---
 

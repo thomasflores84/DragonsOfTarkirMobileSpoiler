@@ -7,7 +7,7 @@ type: "Creature - Zombie Ogre"
 rarity: "C"
 attack: "4/6"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/400/200/283/635618475239763907.png"
-cost: "<span class="Colorless Mana">4</span><span class="Black Mana">B</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Black Mana'>B</span><span class='Black Mana'>B</span>"
 flavor: "Now vengeance is his sole purpose."
 ---
 

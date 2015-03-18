@@ -6,7 +6,7 @@ categories: instant blue
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/383/200/283/635618466263727173.png"
-cost: "<span class="Colorless Mana">1</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span>"
 flavor: "Rakshasa waste no opportunity to display their wealth and power, even in the midst of a sorcerous duel."
 ---
 

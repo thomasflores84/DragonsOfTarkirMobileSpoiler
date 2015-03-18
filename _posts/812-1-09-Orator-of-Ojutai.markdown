@@ -7,7 +7,7 @@ type: "Creature - Bird Monk"
 rarity: "U"
 attack: "0/4"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/265/200/283/635617515665650685.png"
-cost: "<span class="Colorless Mana">1</span><span class="White Mana">W</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='White Mana'>W</span>"
 flavor: ""
 ---
 

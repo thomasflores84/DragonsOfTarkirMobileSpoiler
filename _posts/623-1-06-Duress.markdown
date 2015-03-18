@@ -6,7 +6,7 @@ categories: sorcery black
 type: "Sorcery"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/220/200/283/635616659700219893.png"
-cost: "<span class="Black Mana">B</span>"
+cost: "<span class='Black Mana'>B</span>"
 flavor: "Sarkhan was eager to take vengeance on Zurgo until he saw how lowly his old foe had become."
 ---
 

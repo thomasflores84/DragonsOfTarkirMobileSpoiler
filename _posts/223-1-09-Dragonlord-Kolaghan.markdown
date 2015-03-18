@@ -7,7 +7,7 @@ type: "Legendary Creature - Elder Dragon"
 rarity: "M"
 attack: "6/5"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/10/200/283/635611471380426945.png"
-cost: "<span class="Colorless Mana">4</span><span class="Black Mana">B</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Black Mana'>B</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

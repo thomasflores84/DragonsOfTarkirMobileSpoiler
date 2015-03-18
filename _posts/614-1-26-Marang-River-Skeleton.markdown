@@ -7,7 +7,7 @@ type: "Creature - Skeleton"
 rarity: "U"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/962/200/283/635610608601130298.png"
-cost: "<span class="Colorless Mana">1</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Black Mana'>B</span>"
 flavor: "The gurgling of the Marang conceals both footsteps and screams"
 ---
 

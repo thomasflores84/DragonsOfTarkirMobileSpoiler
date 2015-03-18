@@ -6,7 +6,7 @@ categories: sorcery blue
 type: "Sorcery"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/432/200/283/635618497558419610.png"
-cost: "<span class="Colorless Mana">4</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Blue Mana'>U</span>"
 flavor: ""
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Zombie Warrior"
 rarity: "M"
 attack: "4/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/51/200/283/635612328870977198.png"
-cost: "<span class="Colorless Mana">2</span><span class="Black Mana">B</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Black Mana'>B</span><span class='Black Mana'>B</span>"
 flavor: ""
 ---
 

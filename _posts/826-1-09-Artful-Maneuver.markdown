@@ -6,7 +6,7 @@ categories: instant white
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/178/200/283/635615670447702580.png"
-cost: "<span class="Colorless Mana">1</span><span class="White Mana">W</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='White Mana'>W</span>"
 flavor: ""
 ---
 

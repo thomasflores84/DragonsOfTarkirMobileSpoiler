@@ -7,7 +7,7 @@ type: "Creature - Zombie Goblin"
 rarity: "C"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/415/200/283/635618481513237014.png"
-cost: "<span class="Black Mana">B</span>"
+cost: "<span class='Black Mana'>B</span>"
 flavor: "&quot;The Kologhan send them at us. We kill and raise them. They fight the next wave the Kologhan send. It&#x27;s a neat little cycle.&quot;"
 ---
 

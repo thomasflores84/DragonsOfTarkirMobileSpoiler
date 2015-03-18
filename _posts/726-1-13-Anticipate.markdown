@@ -6,7 +6,7 @@ categories: instant blue
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/16/200/283/635611545892627307.png"
-cost: "<span class="Colorless Mana">1</span><span class="Blue Mana">U</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span>"
 flavor: "&quot;When I have meditated on all outcomes, my opponent has no recourse.&quot;"
 ---
 

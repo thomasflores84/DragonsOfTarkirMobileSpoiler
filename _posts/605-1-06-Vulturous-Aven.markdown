@@ -7,7 +7,7 @@ type: "Creature - Bird Shaman"
 rarity: "C"
 attack: "2/3"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/424/200/283/635618487579139652.png"
-cost: "<span class="Colorless Mana">3</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Black Mana'>B</span>"
 flavor: ""
 ---
 

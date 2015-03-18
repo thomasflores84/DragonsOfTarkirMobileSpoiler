@@ -7,7 +7,7 @@ type: "Creature - Human Soldier"
 rarity: "U"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/316/200/283/635618396058606292.png"
-cost: "<span class="Colorless Mana">2</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Green Mana'>G</span>"
 flavor: ""
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Dragon"
 rarity: "R"
 attack: "4/4"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/976/200/283/635610740866938677.png"
-cost: "<span class="Colorless Mana">2</span><span class="Red Mana">R</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Red Mana'>R</span><span class='Red Mana'>R</span>"
 flavor: "Attracting a dragon&#x27;s attention may be the last mistake you make."
 ---
 

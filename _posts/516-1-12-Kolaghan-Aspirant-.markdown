@@ -7,7 +7,7 @@ type: "Creature - Human Warrior"
 rarity: "C"
 attack: "2/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/357/200/283/635618442143164621.png"
-cost: "<span class="Colorless Mana">1</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Red Mana'>R</span>"
 flavor: "She answers the call of the Crave, the desire for battle sated only by bloodshed."
 ---
 

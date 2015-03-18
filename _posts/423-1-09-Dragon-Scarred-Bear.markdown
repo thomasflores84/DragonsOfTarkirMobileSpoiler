@@ -7,7 +7,7 @@ type: "Creature - Bear"
 rarity: "C"
 attack: "3/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/439/200/283/635618516507224710.png"
-cost: "<span class="Colorless Mana">2</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>2</span><span class='Green Mana'>G</span>"
 flavor: "Bears are a delicacy for the Atarka. The few that remain are the toughest of their species."
 ---
 

@@ -6,7 +6,7 @@ categories: instant red
 type: "Instant"
 rarity: "C"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/414/200/283/635618480911169929.png"
-cost: "<span class="Colorless Mana">1</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Red Mana'>R</span>"
 flavor: "Kolaghan archers are trained in Dakla, the way of the bow. They utilize their dragon lord&#x27;s lightning to strike their target, no matter how small, how fast, or how far away."
 ---
 

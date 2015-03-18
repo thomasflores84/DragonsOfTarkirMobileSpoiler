@@ -6,7 +6,7 @@ categories: enchantment red
 type: "Enchantment"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/902/200/283/635608913317976503.png"
-cost: "<span class="Colorless Mana">1</span><span class="Red Mana">R</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

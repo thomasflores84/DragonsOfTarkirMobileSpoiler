@@ -7,7 +7,7 @@ type: "Creature - Human Berserker"
 rarity: "U"
 attack: "1/1"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/974/200/283/635610738012878989.png"
-cost: "<span class="Red Mana">R</span>"
+cost: "<span class='Red Mana'>R</span>"
 flavor: ""
 ---
 

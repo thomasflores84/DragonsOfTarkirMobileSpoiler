@@ -6,7 +6,7 @@ categories: enchantment black
 type: "Enchantment"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/221/200/283/635616660215103802.png"
-cost: "<span class="Colorless Mana">5</span><span class="Black Mana">B</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>5</span><span class='Black Mana'>B</span><span class='Black Mana'>B</span>"
 flavor: ""
 ---
 

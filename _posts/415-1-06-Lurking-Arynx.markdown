@@ -7,7 +7,7 @@ type: "Creature - Cat Beast"
 rarity: "U"
 attack: "3/5"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/445/200/283/635618529565388966.png"
-cost: "<span class="Colorless Mana">4</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Green Mana'>G</span>"
 flavor: "Once it has your scent, it will hunt you from Gurmag Swamp to Ayagor."
 ---
 

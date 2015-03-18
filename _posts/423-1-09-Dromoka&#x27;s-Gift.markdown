@@ -6,7 +6,7 @@ categories: instant green
 type: "Instant"
 rarity: "U"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/440/200/283/635618518901267732.png"
-cost: "<span class="Colorless Mana">4</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Green Mana'>G</span>"
 flavor: "The simplest gift from a dragon can be a revered accolade for a human warrior."
 ---
 

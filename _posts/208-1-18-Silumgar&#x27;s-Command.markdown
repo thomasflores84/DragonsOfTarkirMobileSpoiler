@@ -6,7 +6,7 @@ categories: instant multicolored
 type: "Instant"
 rarity: "R"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/46/200/283/635612321661021670.png"
-cost: "<span class="Colorless Mana">3</span><span class="Blue Mana">U</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>3</span><span class='Blue Mana'>U</span><span class='Black Mana'>B</span>"
 flavor: ""
 ---
 

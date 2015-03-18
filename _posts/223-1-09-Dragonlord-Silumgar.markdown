@@ -7,7 +7,7 @@ type: "Legendary Creature - Elder Dragon"
 rarity: "M"
 attack: "3/5"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/67/899/200/283/635608910064545188.png"
-cost: "<span class="Colorless Mana">4</span><span class="Blue Mana">U</span><span class="Black Mana">B</span>"
+cost: "<span class='Colorless Mana'>4</span><span class='Blue Mana'>U</span><span class='Black Mana'>B</span>"
 flavor: "Silumgar never passes up an opportunity to add to his opulence."
 ---
 

@@ -7,7 +7,7 @@ type: "Legendary Creature - Spirit Soldier"
 rarity: "R"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/147/200/283/635614913185384817.png"
-cost: "<span class="White Mana">W</span><span class="White Mana">W</span>"
+cost: "<span class='White Mana'>W</span><span class='White Mana'>W</span>"
 flavor: "Martyred for worshipping her ancestors, she now walks among them."
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Insect"
 rarity: "C"
 attack: "6/5"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/314/200/283/635618394112132880.png"
-cost: "<span class="Colorless Mana">5</span><span class="Green Mana">G</span>"
+cost: "<span class='Colorless Mana'>5</span><span class='Green Mana'>G</span>"
 flavor: "The list of things a krotiq eats is as long as the krotiq itself."
 ---
 

@@ -7,7 +7,7 @@ type: "Creature - Human Warrior"
 rarity: "R"
 attack: "2/2"
 image: "http://media-dominaria.cursecdn.com/avatars/thumbnails/68/15/200/283/635611541802723450.jpeg"
-cost: "<span class="Colorless Mana">1</span><span class="White Mana">W</span><span class="White Mana">W</span>"
+cost: "<span class='Colorless Mana'>1</span><span class='White Mana'>W</span><span class='White Mana'>W</span>"
 flavor: "&quot;I would gladly give my life if it would inspire my clan to victory.&quot;"
 ---
 
