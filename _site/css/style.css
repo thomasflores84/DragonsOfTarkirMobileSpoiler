@@ -38,13 +38,13 @@ p {margin-bottom: 1.25em;}
 .Mana.Black {background-size:cover; background-image: url('../img/Black.png'); color: rgba(0, 0, 0, 0);}
 .Mana.Blue {background-size:cover; background-image: url('../img/Blue.png'); background-color: rgb(13, 177, 249); color: rgba(13, 177, 249, 0);}
 .Mana.Red {background-size:cover; background-image: url('../img/Red.png'); background-color: rgb(186, 52, 43); color: rgba(186, 52, 43, 0);}
-.Mana.Green {background-size:cover; background-image: url('../img/Green.png'); background-color: rgb(22, 181, 46); color: rgba(22, 181, 46, 0);}
+.Mana.Green {background-size:cover; background-image: url('../img/Green.png'); background-color: rgb(76, 141, 95); color: rgba(76, 141, 95, 0);}
 
 .white {background: rgb(230,224,191) !important;}
 .blue {background: rgb(13, 177, 249) !important;}
 .black {background: rgb(60, 60, 60) !important;}
 .red {background: rgb(186, 52, 43) !important;}
-.green {background: rgb(22, 181, 46) !important;}
+.green {background: rgb(76, 141, 95) !important;}
 .multicolored {
 	background: #fefcea; /* Old browsers */
 	/*background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important;
