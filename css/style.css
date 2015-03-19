@@ -13,7 +13,12 @@ p {margin-bottom: 1.25em;}
 }
 
 .Mana.Colorless, .Mana.Black {background: rgb(216, 204, 204);}
-.Mana.White {background: rgb(230,224,191); color: rgb(230,224,191);}
+.Mana.White {
+	background-size:cover;
+	background-image: url('../img/White.png');
+	background-color: rgb(230,224,191);
+	color: rgba(230,224,191, 0.0);
+}
 .Mana.Blue {background: rgb(13, 177, 249); color: rgb(13, 177, 249);}
 .Mana.Red {background: rgb(222, 22, 22); color: rgb(222, 22, 22);}
 .Mana.Green {background: rgb(22, 181, 46); color: rgb(22, 181, 46);}
