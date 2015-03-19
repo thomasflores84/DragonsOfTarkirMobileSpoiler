@@ -12,19 +12,25 @@ p {margin-bottom: 1.25em;}
 	padding: 1%;
 }
 
+.Mana.Colorless, .Mana.Black {background: rgb(216, 204, 204);}
+.Mana.White {background: rgb(230,224,191); color: rgb(230,224,191);}
+.Mana.Blue {background: rgb(13, 177, 249); color: rgb(13, 177, 249);}
+.Mana.Red {background: rgb(222, 22, 22); color: rgb(222, 22, 22);}
+.Mana.Green {background: rgb(22, 181, 46); color: rgb(22, 181, 46);}
+
 .white {background: rgb(230,224,191) !important;}
 .blue {background: rgb(13, 177, 249) !important;}
-.black {background: rgb(0, 0, 0) !important;}
+.black {background: rgb(60, 60, 60) !important;}
 .red {background: rgb(222, 22, 22) !important;}
 .green {background: rgb(22, 181, 46) !important;}
-.multi {
+.multicolored {
 	background: #fefcea; /* Old browsers */
-	background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important; /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1da36))  !important; /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important; /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important; /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important; /* IE10+ */
-	background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 100%)  !important; /* W3C */
+	/*background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1da36))  !important;
+	background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important;
+	background: -o-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important;
+	background: -ms-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important;
+	background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 100%)  !important;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 )  !important; /* IE6-9 */
 }
 .colorless {background: rgb(150, 150, 150) !important;}
@@ -79,4 +85,20 @@ p {margin-bottom: 1.25em;}
 	display: block;
 	border-radius: .6em;
 	padding: 0 .5em;
+}
+
+.Mana {
+	border-radius: 50%;
+	background: gray;
+	display: inline-block;
+	width: 1.1em;
+	height: 1.1em;
+	line-height: 1em;
+	text-align: center;
+}
+
+.cost .Mana {
+  -webkit-box-shadow: 0px .15em 0px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px .15em 0px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0.15em 0px 0px rgba(0,0,0,0.75);
 }
