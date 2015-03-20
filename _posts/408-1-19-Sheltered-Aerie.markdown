@@ -12,4 +12,4 @@ flavor: "Dromoka&#x27;s scalelords patrol the skies over Arashin, offering her p
 
 Enchant land
 
-Enchanted land has "<span class="tip mana-icon mana-t" title="Tap">T</span>: Add two mana of any one color to your mana pool."
+Enchanted land has "<span class="Tap">T</span>: Add two mana of any one color to your mana pool."

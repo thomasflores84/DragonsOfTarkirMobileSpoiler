@@ -11,4 +11,4 @@ cost: "<span class='White Mana'>W</span>"
 flavor: "The dragonlords rule the tempests of the skies. Here in the wastes, the storms are my to command.&quot;"
 ---
 
-<span class="Colorless Mana">1</span><span class="White Mana">W</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>: Tap target creature without flying.
+<span class="Colorless Mana">1</span><span class="White Mana">W</span>, <span class="Tap">T</span>: Tap target creature without flying.

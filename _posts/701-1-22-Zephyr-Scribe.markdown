@@ -11,6 +11,6 @@ cost: "<span class='Colorless Mana'>2</span><span class='Blue Mana'>U</span>"
 flavor: "&quot;Ojutai&#x27;s rule has allowed Tarkir&#x27;s monks to learn from the truly enlightened.&quot;"
 ---
 
-<span class="Blue Mana">U</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>: Draw a card, then discard a card.
+<span class="Blue Mana">U</span>, <span class="Tap">T</span>: Draw a card, then discard a card.
 
 Whenever you cast a noncreature spell, untap Zephyr Scribe.

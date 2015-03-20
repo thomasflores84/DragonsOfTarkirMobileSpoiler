@@ -10,4 +10,4 @@ cost: "<span class='Colorless Mana'>4</span>"
 flavor: "&quot;Abzan, Jeskai, Sultai, Mardu, Temurâ€” names lost to history, yet worthy of further study.&quot;"
 ---
 
-<span class="Colorless Mana">2</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>: Draw a card. Activate this ability only if you've cast a noncreature spell this turn.
+<span class="Colorless Mana">2</span>, <span class="Tap">T</span>: Draw a card. Activate this ability only if you've cast a noncreature spell this turn.

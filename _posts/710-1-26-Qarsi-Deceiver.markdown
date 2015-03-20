@@ -11,4 +11,4 @@ cost: "<span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span>"
 flavor: ""
 ---
 
-<span class="Colorless Mana">1</span> to your mana pool. Spend this mana only to cast a face-down creature spell, pay a mana cost to turn a manifested creature face up, or pay a morph cost. <em>(A megamorph cost is a morph cost.)</em>
+<span class="Tap">T</span>: Add <span class="Colorless Mana">1</span> to your mana pool. Spend this mana only to cast a face-down creature spell, pay a mana cost to turn a manifested creature face up, or pay a morph cost. <em>(A megamorph cost is a morph cost.)</em>

@@ -11,6 +11,6 @@ cost: "<span class='Colorless Mana'>2</span><span class='Red Mana'>R</span>"
 flavor: ""
 ---
 
-<span class="Red Mana">R</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>, Sacrifice Crater Elemental: Crater Elemental deals 4 damage to target creature.
+<span class="Red Mana">R</span>, <span class="Tap">T</span>, Sacrifice Crater Elemental: Crater Elemental deals 4 damage to target creature.
 
 <em>Formidable</em> â€” <span class="Colorless Mana">2</span><span class="Red Mana">R</span>: Crater Elemental has base power 8 until end of turn.  Activate this ability only if creatures you control have total power 8 or greater.

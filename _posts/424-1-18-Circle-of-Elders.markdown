@@ -13,4 +13,4 @@ flavor: "They whisper of an ancient hero who saved the dragons of their world."
 
 Vigilance
 
-<em>Formidable</em> - <span class="Colorless Mana">3</span> to your mana pool. Activate this ability only if creatures you control have combined power 8 or greater.
+<em>Formidable</em> - <span class="Tap">T</span>: Add <span class="Colorless Mana">3</span> to your mana pool. Activate this ability only if creatures you control have combined power 8 or greater.

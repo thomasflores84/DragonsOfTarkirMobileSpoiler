@@ -10,4 +10,4 @@ cost: ""
 flavor: "The land is ever resilient. Should it die, it will be reborn."
 ---
 
-<span class="tip mana-icon mana-t" title="Tap">T</span>, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+<span class="Tap">T</span>, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
