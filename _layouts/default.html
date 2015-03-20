@@ -13,17 +13,22 @@
       <script src="{{ site.baseurl }}/js/vendor/modernizr.js"></script>
     </head>
     <body>
-      <div class="fixed">
-        <nav class="top-bar" data-topbar role="navigation">
-          <ul class="title-area">
-            <li class="name">
-              <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            </li>
-            <li class="right"><img src="{{ site.baseurl }}/img/Green.png"></li>
+      <nav class="fixed">
+        <div class="row">
+          <a id="pageTitle" href="{{ site.baseurl }}/" class="columns small-3 medium-4">
+            <span class="show-for-medium-up">{{ site.name }}</span>
+            <span class="show-for-small-only">DoT Mobile</span>
+          </a>
+          <ul id="colorLinks" class="columns small-9 medium-8">
+            <a href="{{ site.baseurl }}/#white"><li class="whiteLink"><img src="{{ site.baseurl }}/img/linkWhite.png"></li></a>
+            <a href="{{ site.baseurl }}/#blue"><li class="blueLink"><img src="{{ site.baseurl }}/img/linkBlue.png"></li></a>
+            <a href="{{ site.baseurl }}/#black"><li class="blackLink"><img src="{{ site.baseurl }}/img/linkBlack.png"></li></a>
+            <a href="{{ site.baseurl }}/#red"><li class="redLink"><img src="{{ site.baseurl }}/img/linkRed.png"></li></a>
+            <a href="{{ site.baseurl }}/#green"><li class="greenLink"><img src="{{ site.baseurl }}/img/linkGreen.png"></li></a>
           </ul>
+        </div>
+      </nav>
 
-        </nav>
-      </div>
 
         <div class="container">
           <div class="site">
