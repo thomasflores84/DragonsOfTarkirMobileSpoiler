@@ -5,6 +5,7 @@ nav{
 	background: black;
 	position: relative;
 	height: 2.8125rem;
+	font-size: 1.2em;
 }
 nav .columns {padding: 0;}
 nav div {
