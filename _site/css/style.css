@@ -30,14 +30,10 @@ p {margin-bottom: 1.25em;}
 }
 
 .Mana.Colorless, .Mana.Black {background-color: rgb(216, 204, 204);}
-.Mana.White {
-	background-image: url('../img/White.png');
-	background-color: rgb(230,224,191);
-	color: rgba(230,224,191, 0.0);
-}
+.Mana.White {background-size:cover; background-image: url('../img/White.png'); background-color: rgb(253,245,231); color: rgba(230,224,191, 0.0);}
 .Mana.Black {background-size:cover; background-image: url('../img/Black.png'); color: rgba(0, 0, 0, 0);}
 .Mana.Blue {background-size:cover; background-image: url('../img/Blue.png'); background-color: rgb(13, 177, 249); color: rgba(13, 177, 249, 0);}
-.Mana.Red {background-size:cover; background-image: url('../img/Red.png'); background-color: rgb(186, 52, 43); color: rgba(186, 52, 43, 0);}
+.Mana.Red {background-size:cover; background-image: url('../img/Red.png'); background-color: rgb(241, 179, 155); color: rgba(186, 52, 43, 0);}
 .Mana.Green {background-size:cover; background-image: url('../img/Green.png'); background-color: rgb(76, 141, 95); color: rgba(76, 141, 95, 0);}
 
 .white {background: rgb(230,224,191) !important;}
