@@ -13,4 +13,4 @@ flavor: ""
 
 Flying
 
-Whenever Savage Ventmaw attacks, add <span class="tip mana-icon mana-red" title="1 Red Mana">R</span><span class="tip mana-icon mana-red" title="1 Red Mana">R</span><span class="tip mana-icon mana-red" title="1 Red Mana">R</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span> to your mana pool.  Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.
+Whenever Savage Ventmaw attacks, add <span class="Red Mana">R</span><span class="Red Mana">R</span><span class="Red Mana">R</span><span class="Green Mana">G</span><span class="Green Mana">G</span><span class="Green Mana">G</span> to your mana pool.  Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.

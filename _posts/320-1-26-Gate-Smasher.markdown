@@ -14,4 +14,4 @@ Gate Smasher can be attached only to a creature with toughness 4 or greater.
 
 Equipped creature gets +3/+0 and has trample.
 
-Equip <span class="tip mana-icon mana-colorless-03" title="3 Colorless Mana">3</span>
+Equip <span class="Colorless Mana">3</span>

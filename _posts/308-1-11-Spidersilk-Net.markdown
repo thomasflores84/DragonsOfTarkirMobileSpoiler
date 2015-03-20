@@ -12,4 +12,4 @@ flavor: "&quot;Dragons are our betters, but we will fight them if our dragonlord
 
 Equipped creature gets +0/+2 and has reach.
 
-Equip <span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span>
+Equip <span class="Colorless Mana">2</span>

@@ -13,4 +13,4 @@ flavor: ""
 
 <span class="tip mana-icon mana-t" title="Tap">T</span>: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast creature spells.
 
-<em>Formidable</em> â€” <span class="tip mana-icon mana-colorless-09" title="9 Colorless Mana">9</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span><span class="tip mana-icon mana-green" title="1 Green Mana">G</span>,<span class="tip mana-icon mana-t" title="Tap">T</span>: Each player's life total becomes the number of creatures he or she controls. Activate this ability only if creatures you control have total power 8 or greater.
+<em>Formidable</em> â€” <span class="Colorless Mana">9</span><span class="Green Mana">G</span><span class="Green Mana">G</span>,<span class="tip mana-icon mana-t" title="Tap">T</span>: Each player's life total becomes the number of creatures he or she controls. Activate this ability only if creatures you control have total power 8 or greater.

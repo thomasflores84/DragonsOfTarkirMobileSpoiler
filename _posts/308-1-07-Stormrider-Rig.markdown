@@ -14,4 +14,4 @@ Equipped creature gets +1/+1.
 
 Whenever a creature enters the battlefield under your control, you may attach Stormrider's Rig to it.
 
-Equip <span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span>.
+Equip <span class="Colorless Mana">2</span>.

@@ -10,8 +10,8 @@ cost: ""
 flavor: ""
 ---
 
-<span class="tip mana-icon mana-t" title="Tap">T</span>: Add <span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span> to your mana pool.
+<span class="Colorless Mana">1</span> to your mana pool.
 
 <span class="tip mana-icon mana-t" title="t Colorless Mana">t</span>: Add one mana of any color to your mana pool.  Spend this mana only to cast a Dragon creature spell.
 
-<span class="tip mana-icon mana-colorless-02" title="2 Colorless Mana">2</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand.
+<span class="Colorless Mana">2</span>, <span class="tip mana-icon mana-t" title="Tap">T</span>, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand.

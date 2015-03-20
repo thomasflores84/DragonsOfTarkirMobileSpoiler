@@ -11,8 +11,8 @@ cost: "<span class='Blue Mana'>U</span><span class='Blue Mana'>U</span><span cla
 flavor: ""
 ---
 
-<span class="tip mana-icon mana-blue" title="1 Blue Mana">U</span>: Exile Shorecrasher Elemental, then return it to the battlefield face down under its owner's control.
+<span class="Blue Mana">U</span>: Exile Shorecrasher Elemental, then return it to the battlefield face down under its owner's control.
 
-<span class="tip mana-icon mana-colorless-01" title="1 Colorless Mana">1</span>: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn.
+<span class="Colorless Mana">1</span>: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn.
 
-Megamorph <span class="tip mana-icon mana-colorless-04" title="4 Colorless Mana">4</span><span class="tip mana-icon mana-blue" title="1 Blue Mana">U</span> <em>(You may cast this card face down as a 2/2 creature for <span class="tip mana-icon mana-colorless-03" title="3 Colorless Mana">3</span>. Turn it face up at any time for its megamorph cost and put a +1/+1 counter on it.)</em>
+Megamorph <span class="Colorless Mana">4</span><span class="Blue Mana">U</span> <em>(You may cast this card face down as a 2/2 creature for <span class="Colorless Mana">3</span>. Turn it face up at any time for its megamorph cost and put a +1/+1 counter on it.)</em>

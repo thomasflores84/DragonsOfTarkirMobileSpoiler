@@ -13,4 +13,4 @@ flavor: "The storms of Tarkir awaken more than dragons."
 
 Trample
 
-Megamorph <span class="tip mana-icon mana-colorless-04" title="4 Colorless Mana">4</span><span class="tip mana-icon mana-red" title="1 Red Mana">R</span><span class="tip mana-icon mana-red" title="1 Red Mana">R</span> <em>(You may cast this card face down as a 2/2 creature for <span class="tip mana-icon mana-colorless-03" title="3 Colorless Mana">3</span>. You may turn it face up at any time for its megamorph cost and put a +1/+1 counter on it.)</em>
+Megamorph <span class="Colorless Mana">4</span><span class="Red Mana">R</span><span class="Red Mana">R</span> <em>(You may cast this card face down as a 2/2 creature for <span class="Colorless Mana">3</span>. You may turn it face up at any time for its megamorph cost and put a +1/+1 counter on it.)</em>
