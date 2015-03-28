@@ -17,14 +17,22 @@ nav div {
 	text-decoration: none;
 }
 .aCard img{width:100%;}
-#colorLinks li {float: right;}
+#colorLinks li {
+	float: right;
+	border-radius: 50%;
+	margin: 0.1rem;
+	height: 2.4rem;
+	width: 2.4rem;
+	background-size: cover;
+}
+/*#colorLinks li:hover {background-color: white !important;}*/
 
 nav div a {text-decoration: none; color: white;}
 nav div a:hover {text-decoration: none; color: white;}
 nav ul{list-style-type: none; margin:0;}
 nav img {
-	height: 2.8125rem;
-	width: 2.8125rem;
+	height: 2.4rem;
+	width: 2.4rem;
 }
 
 .container {margin-top: 2.8125rem;}
@@ -63,13 +71,28 @@ nav img {
 .Mana.Red {background-size:cover; background-image: url('../img/Red.png'); background-color: rgb(241, 179, 155); color: rgba(186, 52, 43, 0);}
 .Mana.Green {background-size:cover; background-image: url('../img/Green.png'); background-color: rgb(76, 141, 95); color: rgba(76, 141, 95, 0);}
 
-.white, .whiteLink:hover {background: rgb(230,224,191) !important;}
-.blue, .blueLink:hover {background: rgb(13, 177, 249) !important;}
-.black, .blackLink:hover {background: rgb(60, 60, 60) !important;}
-.red, .redLink:hover {background: rgb(186, 52, 43) !important;}
-.green, .greenLink:hover {background: rgb(76, 141, 95) !important;}
-.multicolored {
-	background: #fefcea; /* Old browsers */
+.multiColoredLink:hover {background-image: url('../img/MultiColoredBlack.png'); background-color: rgb(226, 205, 123) !important;}
+.whiteLink:hover {background-image: url('../img/White.png'); background-color: rgb(254, 254, 235) !important;}
+.blueLink:hover {background-image: url('../img/Blue.png'); background-color: rgb(189, 236, 249) !important;}
+.blackLink:hover {background-image: url('../img/Black.png'); background-color: rgb(216, 204, 204) !important;}
+.redLink:hover {background-image: url('../img/Red.png');background-color: rgb(245, 154, 154) !important;}
+.greenLink:hover {background-image: url('../img/Green.png');background-color: rgb(179, 232, 198) !important;}
+
+.multiColoredLink {background-image: url('../img/MultiColoredWhite.png')}
+.whiteLink {background-image: url('../img/linkWhite.png')}
+.blueLink {background-image: url('../img/linkBlue.png')}
+.blackLink {background-image: url('../img/linkBlack.png')}
+.redLink {background-image: url('../img/linkRed.png')}
+.greenLink {background-image: url('../img/linkGreen.png')}
+
+.whiteLink {background-color: rgb(221, 208, 136) !important;}
+.white {background-color: rgb(230,224,191) !important;}
+.blue, .blueLink {background-color: rgb(13, 177, 249) !important;}
+.black, .blackLink {background-color: rgb(60, 60, 60) !important;}
+.red, .redLink {background-color: rgb(186, 52, 43) !important;}
+.green, .greenLink {background-color: rgb(76, 141, 95) !important;}
+.multicolored, .multiColoredLink {
+	background-color: rgb(173, 152, 68); /* Old browsers */
 	/*background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important;
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1da36))  !important;
 	background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important;
