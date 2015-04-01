@@ -11,4 +11,4 @@ cost: "<span class='Colorless Mana'>3</span><span class='Green Mana'>G</span><sp
 flavor: "The Atarka use them not just for food, but also to clear away snow, trees, and enemy forces."
 ---
 
-<em>Formidable</em> â€” Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn.
+<em>Formidable</em> - Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn.

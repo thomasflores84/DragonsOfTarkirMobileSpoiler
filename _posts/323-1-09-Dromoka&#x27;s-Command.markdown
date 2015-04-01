@@ -10,7 +10,7 @@ cost: "<span class='Green Mana'>G</span><span class='White Mana'>W</span>"
 flavor: ""
 ---
 
-Choose two â€”
+Choose two -
 
 &bull; Prevent all damage target instant or sorcery spell would deal this turn.
 

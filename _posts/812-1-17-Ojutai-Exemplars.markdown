@@ -11,7 +11,7 @@ cost: "<span class='Colorless Mana'>2</span><span class='White Mana'>W</span><sp
 flavor: ""
 ---
 
-Whenever you cast a noncreature spell, choose one â€”
+Whenever you cast a noncreature spell, choose one -
 
 &bull; Tap target creature.
 

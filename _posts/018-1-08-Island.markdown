@@ -10,4 +10,4 @@ cost: ""
 flavor: ""
 ---
 
-
+<span class="Tap">T</span>: Add <span class="Blue Mana">U</span> to your mana pool.

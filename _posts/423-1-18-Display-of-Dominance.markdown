@@ -10,7 +10,7 @@ cost: "<span class='Colorless Mana'>1</span><span class='Green Mana'>G</span>"
 flavor: ""
 ---
 
-Choose one â€”
+Choose one -
 
 &bull; Destroy target blue or black noncreature permanent.
 

@@ -16,8 +16,12 @@ nav div {
 	color: white;
 	text-decoration: none;
 }
-.site {background-image: url('../img/concrete_seamless.png');}
-.aCard img{width:100%;}
+body {background-image: url('../img/concrete_seamless.png');}
+.site .row {background-color: white;}
+.aCard img {
+  width: 92%;
+  position: absolute;
+}
 #colorLinks li {
 	float: right;
 	border-radius: 50%;
@@ -78,6 +82,7 @@ nav img {
 .blackLink:hover {background-image: url('../img/Black.png'); background-color: rgb(216, 204, 204) !important;}
 .redLink:hover {background-image: url('../img/Red.png');background-color: rgb(245, 154, 154) !important;}
 .greenLink:hover {background-image: url('../img/Green.png');background-color: rgb(179, 232, 198) !important;}
+.colorlessLink:hover {background-color: rgb(203, 203, 203) !important;}
 
 .multiColoredLink {background-image: url('../img/MultiColoredWhite.png')}
 .whiteLink {background-image: url('../img/linkWhite.png')}
@@ -103,7 +108,7 @@ nav img {
 	background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 100%)  !important;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 )  !important; /* IE6-9 */
 }
-.colorless {background-color: rgb(150, 150, 150) !important;}
+.colorless, .colorlessLink {background-color: rgb(150, 150, 150) !important;}
 .aCard a, .aCard a:hover {text-decoration: none; color: black;}
 .cardBorder {
 	border-radius: .5em;

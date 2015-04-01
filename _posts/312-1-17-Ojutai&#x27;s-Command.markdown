@@ -10,7 +10,7 @@ cost: "<span class='Colorless Mana'>2</span><span class='White Mana'>W</span><sp
 flavor: ""
 ---
 
-Choose two â€”
+Choose two -
 
 &bull; Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
 

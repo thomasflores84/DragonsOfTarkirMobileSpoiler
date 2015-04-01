@@ -10,7 +10,7 @@ cost: "<span class='Colorless Mana'>3</span><span class='Blue Mana'>U</span><spa
 flavor: ""
 ---
 
-Chose two â€”
+Chose two -
 
 &bull; Counter target noncreature spell.
 

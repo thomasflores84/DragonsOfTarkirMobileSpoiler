@@ -10,7 +10,7 @@ cost: "<span class='Red Mana'>R</span><span class='Green Mana'>G</span>"
 flavor: ""
 ---
 
-Choose two â€”
+Choose two -
 
 &bull; Your opponents can't gain life this turn.
 

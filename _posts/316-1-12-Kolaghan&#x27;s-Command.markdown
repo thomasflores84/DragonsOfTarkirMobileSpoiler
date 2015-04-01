@@ -10,7 +10,7 @@ cost: "<span class='Colorless Mana'>1</span><span class='Red Mana'>R</span><span
 flavor: ""
 ---
 
-Choose two â€”
+Choose two -
 
 &bull; Return target creature card from your graveyard to your hand.
 
