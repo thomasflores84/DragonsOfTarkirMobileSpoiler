@@ -87,10 +87,11 @@ nav img {
 
 .whiteLink {background-color: rgb(221, 208, 136) !important;}
 .white {background-color: rgb(230,224,191) !important;}
-.blue, .blueLink {background-color: rgb(13, 177, 249) !important;}
-.black, .blackLink {background-color: rgb(60, 60, 60) !important;}
-.red, .redLink {background-color: rgb(186, 52, 43) !important;}
-.green, .greenLink {background-color: rgb(76, 141, 95) !important;}
+.blue, .blueLink {background-color: rgb(7, 129, 231) !important;}
+.blackLink {background-color: rgb(60, 60, 60) !important;}
+.black {background-color: rgb(0, 0, 0) !important;}
+.red, .redLink {background-color: rgb(197, 12, 0) !important;}
+.green, .greenLink {background-color: rgb(27, 137, 59) !important;}
 .multicolored, .multiColoredLink {
 	background-color: rgb(173, 152, 68); /* Old browsers */
 	/*background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important;
@@ -101,8 +102,8 @@ nav img {
 	background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 100%)  !important;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 )  !important; /* IE6-9 */
 }
-.colorless {background: rgb(150, 150, 150) !important;}
-
+.colorless {background-color: rgb(150, 150, 150) !important;}
+.aCard a, .aCard a:hover {text-decoration: none; color: black;}
 .cardBorder {
 	border-radius: .5em;
 	border-bottom-left-radius: 15%;
@@ -110,6 +111,7 @@ nav img {
 	height: 95%;
 	padding: .2em;
 	overflow: visible;
+	background-image: url('../img/rice-paper-3.png');
 }
 
 .title, .type {

@@ -12,13 +12,6 @@ title: Dragons of Tarkir Mobile Spoiler
 		{% endif %}
 		<div class="aCard columns small-6 medium-4 large-3">
 			<a href="{{ site.baseurl }}/{{ card.url }}">
-			{% if card.image %}
-				{% if card.image contains 'http:' %}
-		  			<img class="" src="{{ card.image }}">
-				{% else %}
-		  			<img class="" src="{{ site.baseurl }}/img/{{ card.image }}">
-				{% endif %}
-			{% else %}
 				<div class="cardwrapper">
 					<div class="cardBorder {{ card.color }}">
 						<div class="TitleCostRow">
@@ -33,7 +26,6 @@ title: Dragons of Tarkir Mobile Spoiler
 						<div class="attack">{{ card.attack }}</div>
 					</div>
 				</div>
-			{% endif %}
 			</a>
 		</div>
 	{% endfor %}
