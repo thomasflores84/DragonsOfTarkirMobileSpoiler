@@ -16,6 +16,7 @@ nav div {
 	color: white;
 	text-decoration: none;
 }
+.site {background-image: url('../img/concrete_seamless.png');}
 .aCard img{width:100%;}
 #colorLinks li {
 	float: right;
