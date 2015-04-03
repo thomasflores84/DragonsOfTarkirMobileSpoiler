@@ -6,14 +6,13 @@ title: Dragons of Tarkir Mobile Spoiler
 <div class="mainBody row">
 	{% assign color = '' %}
 	{% for card in site.posts %}
-		{% comment %}
 		{% if card.color != color %}
 			<a name="{{ card.color }}"></a>
 			{% assign color = card.color %}
 		{% endif %}
-		{% endcomment %}
 		<div class="aCard columns small-6 medium-4 large-3">
 			<a href="{{ site.baseurl }}/{{ card.url }}">
+		{% comment %}
 			{% if card.image %}
 				{% if card.image contains 'http:' %}
 		  			<img class="" src="{{ card.image }}">
@@ -21,6 +20,7 @@ title: Dragons of Tarkir Mobile Spoiler
 		  			<img class="" src="{{ site.baseurl }}/img/{{ card.image }}">
 				{% endif %}
 			{% endif %}
+		{% endcomment %}
 			<div class="cardwrapper">
 				<div class="cardBorder {{ card.color }}">
 					<div class="TitleCostRow">
