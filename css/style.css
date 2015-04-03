@@ -18,7 +18,8 @@ nav div {
 }
 body {background-image: url('../img/concrete_seamless.png');}
 .site .row {background-color: white;}
-.site, .site p {font-size: 8.4275pt;}
+.site {font-size: 8.4275pt;}
+.site p {font-size: inherit;}
 .aCard img {
   width: 92%;
   position: absolute;
