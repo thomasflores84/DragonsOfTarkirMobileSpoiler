@@ -1,6 +1,6 @@
 body {font-family: 'PT Serif', "Times New Roman", Times, serif;}
 
-p {margin-bottom: 1.25em;}
+p {margin-bottom: 1.25em; font-size: inherit;}
 nav{
 	background: black;
 	position: relative;
