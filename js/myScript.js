@@ -9,8 +9,6 @@ $('.RulesFlavorRow').height(
 		$('.TypeRarityRow').outerHeight()
 	);
 
-$('.colorPicker').height($('.top-bar').height());
-
 $('.cardwrapper div, .RulesFlavorRow *').css('font-size', 
 		($('.cardwrapper').width() / 300 * 12) + 'pt'
 	);
@@ -19,8 +17,6 @@ function modifySizes () {
 	$('.cardwrapper').outerHeight(
 			$('.cardwrapper').outerWidth() * 1.395
 		);
-	
-	$('.colorPicker').height($('.top-bar').height());
 	
 	$('.cardwrapper div, .RulesFlavorRow *').css('font-size', 
 			($('.cardwrapper').width() / 300 * 12) + 'pt'
