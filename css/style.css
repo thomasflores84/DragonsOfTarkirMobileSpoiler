@@ -151,7 +151,7 @@ nav img {
 }
 
 .TitleCostRow, .TypeRarityRow {
-	width: 100%;
+	width: 18.3em;
 	height: 2em;
 	border-radius: .6em;
 	margin: .2em 0;
@@ -159,6 +159,7 @@ nav img {
 
 .RulesFlavorRow {
 	margin: 2%;
+	height: 21em;
 }
 
 .cardBorder .attack {
