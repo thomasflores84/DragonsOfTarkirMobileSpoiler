@@ -9,7 +9,7 @@ $('.cardwrapper').height(
 		$('.TypeRarityRow').outerHeight()
 	);*/
 
-$('.cardwrapper div, .RulesFlavorRow *').css('font-size', 
+$('.site').css('font-size', 
 		($('.cardwrapper').width() / 300 * 12) + 'pt'
 	);
 
