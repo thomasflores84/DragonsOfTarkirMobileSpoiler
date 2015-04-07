@@ -1,6 +1,6 @@
 body {font-family: 'PT Serif', "Times New Roman", Times, serif;}
 
-p {margin-bottom: 1.25em;}
+p {margin-bottom: 1.25em; font-size: inherit;}
 nav{
 	background: black;
 	position: relative;
@@ -18,6 +18,8 @@ nav div {
 }
 body {background-image: url('../img/concrete_seamless.png');}
 .site .row {background-color: white;}
+.site {font-size: 8.4275pt;}
+.site p {font-size: inherit;}
 .aCard img {
   width: 92%;
   position: absolute;
@@ -98,18 +100,25 @@ nav img {
 .black {background-color: rgb(0, 0, 0) !important;}
 .red, .redLink {background-color: rgb(197, 12, 0) !important;}
 .green, .greenLink {background-color: rgb(27, 137, 59) !important;}
-.multicolored, .multiColoredLink {
-	background-color: rgb(173, 152, 68); /* Old browsers */
-	/*background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%) !important;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1da36))  !important;
-	background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important;
-	background: -o-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important;
-	background: -ms-linear-gradient(top,  #fefcea 0%,#f1da36 100%)  !important;
-	background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 100%)  !important;
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 )  !important; /* IE6-9 */
-}
+.multicolored, .multiColoredLink {background-color: rgb(173, 152, 68);}
 .colorless, .colorlessLink {background-color: rgb(150, 150, 150) !important;}
 .aCard a, .aCard a:hover {text-decoration: none; color: black;}
+
+.cardBorder.blue>div {background-color: rgb(180, 217, 247);}
+.cardBorder.blue .RulesFlavorRow {background-color: rgb(230, 242, 252);}
+.cardBorder.white>div {background-color: rgb(247, 245, 235);}
+.cardBorder.white .RulesFlavorRow {background-color: rgb(252, 251, 248);}
+.cardBorder.black>div {background-color: rgb(178, 178, 178);}
+.cardBorder.black .RulesFlavorRow {background-color: rgb(229, 229, 229);}
+.cardBorder.red>div {background-color: rgb(237, 182, 178);}
+.cardBorder.red .RulesFlavorRow {background-color: rgb(249, 230, 229);}
+.cardBorder.green>div {background-color: rgb(186, 219, 196);}
+.cardBorder.green .RulesFlavorRow {background-color: rgb(232, 243, 235);}
+.cardBorder.multicolored>div {background-color: rgb(230, 224, 198);}
+.cardBorder.multicolored .RulesFlavorRow {background-color: rgb(246, 244, 236);}
+.cardBorder.colorless>div {background-color: rgb(223, 223, 223);}
+.cardBorder.colorless .RulesFlavorRow {background-color: rgb(244, 244, 244);}
+
 .cardBorder {
 	border-radius: .5em;
 	border-bottom-left-radius: 15%;
@@ -144,7 +153,7 @@ nav img {
 }
 
 .TitleCostRow, .TypeRarityRow {
-	width: 100%;
+	width: 18.3em;
 	height: 2em;
 	border-radius: .6em;
 	margin: .2em 0;
@@ -152,6 +161,7 @@ nav img {
 
 .RulesFlavorRow {
 	margin: 2%;
+	height: 21em;
 }
 
 .cardBorder .attack {
