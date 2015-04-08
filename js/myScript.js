@@ -4,9 +4,6 @@ $('.site').css('font-size',
 	);
 
 function modifySizes () {
-	$('.cardwrapper').outerHeight(
-			$('.cardwrapper').outerWidth() * 1.395
-		);
 	
 	$('.site').css('font-size', 
 			($('.cardwrapper').width() / 300 * 12) + 'pt'
