@@ -11,6 +11,8 @@
       <link rel="stylesheet" href="/DragonsOfTarkirMobileSpoiler/css/style.css" />
 
       <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/modernizr.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
     </head>
     <body>
       <nav class="fixed">
@@ -32,45 +34,41 @@
         </div>
       </nav>
 
-
         <div class="container">
           <div class="site">
-          <script type="text/javascript">
-            $('.site').css('font-size', 
-                ($('.cardwrapper').width() / 300 * 12) + 'pt'
-              );
-          </script>
-                <div class="row">
+            <div class="mainBody row">
+              <div id="cardRuler" class="columns small-6 medium-4 large-3"></div>
+              <script src="/DragonsOfTarkirMobileSpoiler/js/myScript.js"></script>
+                  
 	
-		
-  			<img class="columns small-6 medium-4 large-3" src="http://media-dominaria.cursecdn.com/avatars/thumbnails/68/348/200/283/635618435912630383.png">
-		
+			<img class="columns small-6 medium-4 large-3" src="http://media-dominaria.cursecdn.com/avatars/thumbnails/68/348/200/283/635618435912630383.png">
 	
-	<div class="columns small-6 medium-4 large-3 end">
-		<div class="cardwrapper">
-			<div class="cardBorder red">
-				<div class="TitleCostRow">
-					<div class="title">Berserker&#x27;s Onslaught</div><div class="cost"><span class='Colorless Mana'>3</span><span class='Red Mana'>R</span><span class='Red Mana'>R</span></div>
-				</div>
-				<div class="TypeRarityRow">
-					<div class="type">Enchantment</div><div class="rarity">R</div>
-				</div>
-				<div class="RulesFlavorRow">
-					<div class="rules"><p>Attacking creatures you control have double strike.</p>
-</div><em>&quot;Atarka&#x27;s people starve while she feasts upon the bounty of their hunts. They must conquer even more lands just for the sake of their own subsistence.&quot; - Arel, Unseen Whisperer</em>
-				</div>
-				
+
+<div class="columns small-6 medium-4 large-3 end">
+	<div class="cardwrapper">
+		<div class="cardBorder red">
+			<div class="TitleCostRow">
+				<div class="title">Berserker&#x27;s Onslaught</div><div class="cost"><span class='Colorless Mana'>3</span><span class='Red Mana'>R</span><span class='Red Mana'>R</span></div>
 			</div>
+			<div class="TypeRarityRow">
+				<div class="type">Enchantment</div><div class="rarity">R</div>
+			</div>
+			<div class="RulesFlavorRow">
+				<div class="rulesContent">
+					<div class="rules"><p>Attacking creatures you control have double strike.</p>
+</div>
+					<em>&quot;Atarka&#x27;s people starve while she feasts upon the bounty of their hunts. They must conquer even more lands just for the sake of their own subsistence.&quot; - Arel, Unseen Whisperer</em>
+				</div>
+			</div>
+			
 		</div>
 	</div>
 </div>
 
-            
+            </div>
           </div>
         </div> <!-- /container -->
 
-      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
-      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
       <script>
         $(document).foundation();
       </script>

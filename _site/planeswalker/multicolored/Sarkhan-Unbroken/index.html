@@ -11,6 +11,8 @@
       <link rel="stylesheet" href="/DragonsOfTarkirMobileSpoiler/css/style.css" />
 
       <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/modernizr.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
     </head>
     <body>
       <nav class="fixed">
@@ -32,51 +34,47 @@
         </div>
       </nav>
 
-
         <div class="container">
           <div class="site">
-          <script type="text/javascript">
-            $('.site').css('font-size', 
-                ($('.cardwrapper').width() / 300 * 12) + 'pt'
-              );
-          </script>
-                <div class="row">
+            <div class="mainBody row">
+              <div id="cardRuler" class="columns small-6 medium-4 large-3"></div>
+              <script src="/DragonsOfTarkirMobileSpoiler/js/myScript.js"></script>
+                  
 	
-		
-  			<img class="columns small-6 medium-4 large-3" src="/DragonsOfTarkirMobileSpoiler/img/SarkhanUnbroken.png">
-		
+			<img class="columns small-6 medium-4 large-3" src="/DragonsOfTarkirMobileSpoiler/img/SarkhanUnbroken.png">
 	
-	<div class="columns small-6 medium-4 large-3 end">
-		<div class="cardwrapper">
-			<div class="cardBorder multicolored">
-				<div class="TitleCostRow">
-					<div class="title">Sarkhan Unbroken</div><div class="cost"><span class='Colorless Mana'>2</span><span class='Green Mana'>G</span><span class='Blue Mana'>U</span><span class='Red Mana'>R</span></div>
-				</div>
-				<div class="TypeRarityRow">
-					<div class="type">Planeswalker - Sarkhan</div><div class="rarity">M</div>
-				</div>
-				<div class="RulesFlavorRow">
+
+<div class="columns small-6 medium-4 large-3 end">
+	<div class="cardwrapper">
+		<div class="cardBorder multicolored">
+			<div class="TitleCostRow">
+				<div class="title">Sarkhan Unbroken</div><div class="cost"><span class='Colorless Mana'>2</span><span class='Green Mana'>G</span><span class='Blue Mana'>U</span><span class='Red Mana'>R</span></div>
+			</div>
+			<div class="TypeRarityRow">
+				<div class="type">Planeswalker - Sarkhan</div><div class="rarity">M</div>
+			</div>
+			<div class="RulesFlavorRow">
+				<div class="rulesContent">
 					<div class="rules"><p>+1: Draw a card, then add one mana of any color to your mana pool.</p>
 
 <p>-2: Put a 4/4 Dragon creature token with flying onto the battlefield.</p>
 
 <p>-8: Search your library for any number of Dragon creature cards and put them onto your battlefield. Then shuffle your library.</p>
-</div><em></em>
+</div>
+					<em></em>
 				</div>
-				
-					<div class="attack">4</div>
-				
 			</div>
+			
+				<div class="attack">4</div>
+			
 		</div>
 	</div>
 </div>
 
-            
+            </div>
           </div>
         </div> <!-- /container -->
 
-      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
-      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
       <script>
         $(document).foundation();
       </script>

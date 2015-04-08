@@ -11,6 +11,8 @@
       <link rel="stylesheet" href="/DragonsOfTarkirMobileSpoiler/css/style.css" />
 
       <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/modernizr.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
     </head>
     <body>
       <nav class="fixed">
@@ -32,47 +34,43 @@
         </div>
       </nav>
 
-
         <div class="container">
           <div class="site">
-          <script type="text/javascript">
-            $('.site').css('font-size', 
-                ($('.cardwrapper').width() / 300 * 12) + 'pt'
-              );
-          </script>
-                <div class="row">
+            <div class="mainBody row">
+              <div id="cardRuler" class="columns small-6 medium-4 large-3"></div>
+              <script src="/DragonsOfTarkirMobileSpoiler/js/myScript.js"></script>
+                  
 	
-		
-  			<img class="columns small-6 medium-4 large-3" src="http://media-dominaria.cursecdn.com/avatars/thumbnails/67/908/200/283/635608921174179354.png">
-		
+			<img class="columns small-6 medium-4 large-3" src="http://media-dominaria.cursecdn.com/avatars/thumbnails/67/908/200/283/635608921174179354.png">
 	
-	<div class="columns small-6 medium-4 large-3 end">
-		<div class="cardwrapper">
-			<div class="cardBorder green">
-				<div class="TitleCostRow">
-					<div class="title">Stampeding Elk Herd</div><div class="cost"><span class='Colorless Mana'>3</span><span class='Green Mana'>G</span><span class='Green Mana'>G</span></div>
-				</div>
-				<div class="TypeRarityRow">
-					<div class="type">Creature - Elk</div><div class="rarity">C</div>
-				</div>
-				<div class="RulesFlavorRow">
-					<div class="rules"><p><em>Formidable</em> - Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn.</p>
-</div><em>The Atarka use them not just for food, but also to clear away snow, trees, and enemy forces.</em>
-				</div>
-				
-					<div class="attack">5/5</div>
-				
+
+<div class="columns small-6 medium-4 large-3 end">
+	<div class="cardwrapper">
+		<div class="cardBorder green">
+			<div class="TitleCostRow">
+				<div class="title">Stampeding Elk Herd</div><div class="cost"><span class='Colorless Mana'>3</span><span class='Green Mana'>G</span><span class='Green Mana'>G</span></div>
 			</div>
+			<div class="TypeRarityRow">
+				<div class="type">Creature - Elk</div><div class="rarity">C</div>
+			</div>
+			<div class="RulesFlavorRow">
+				<div class="rulesContent">
+					<div class="rules"><p><em>Formidable</em> - Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn.</p>
+</div>
+					<em>The Atarka use them not just for food, but also to clear away snow, trees, and enemy forces.</em>
+				</div>
+			</div>
+			
+				<div class="attack">5/5</div>
+			
 		</div>
 	</div>
 </div>
 
-            
+            </div>
           </div>
         </div> <!-- /container -->
 
-      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
-      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
       <script>
         $(document).foundation();
       </script>

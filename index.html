@@ -3,39 +3,40 @@ layout: default
 title: Dragons of Tarkir Mobile Spoiler
 ---
 
-<div class="mainBody row">
-	{% assign color = '' %}
-	{% for card in site.posts %}
-		{% if card.color != color %}
-			<a name="{{ card.color }}"></a>
-			{% assign color = card.color %}
-		{% endif %}
-		<div class="aCard columns small-6 medium-4 large-3">
-			<a href="{{ site.baseurl }}/{{ card.url }}">
-		{% comment %}
-			{% if card.image %}
-				{% if card.image contains 'http:' %}
-		  			<img class="" src="{{ card.image }}">
-				{% else %}
-		  			<img class="" src="{{ site.baseurl }}/img/{{ card.image }}">
-				{% endif %}
+{% assign color = '' %}
+{% for card in site.posts %}
+	{% if card.color != color %}
+		<a name="{{ card.color }}"></a>
+		{% assign color = card.color %}
+	{% endif %}
+	<div class="aCard columns small-6 medium-4 large-3">
+		<a href="{{ site.baseurl }}/{{ card.url }}">
+	{% comment %}
+		{% if card.image %}
+			{% if card.image contains 'http:' %}
+	  			<img class="" src="{{ card.image }}">
+			{% else %}
+	  			<img class="" src="{{ site.baseurl }}/img/{{ card.image }}">
 			{% endif %}
-		{% endcomment %}
-			<div class="cardwrapper">
-				<div class="cardBorder {{ card.color }}">
-					<div class="TitleCostRow">
-						<div class="title">{{ card.title }}</div><div class="cost">{{ card.cost }}</div>
-					</div>
-					<div class="TypeRarityRow">
-						<div class="type">{{ card.type }}</div><div class="rarity">{{ card.rarity }}</div>
-					</div>
-					<div class="RulesFlavorRow">
-						<div class="rules">{{ card.content }}</div><em class="cost">{{ card.flavor }}</em>
-					</div>
-					<div class="attack">{{ card.attack }}</div>
+		{% endif %}
+	{% endcomment %}
+		<div class="cardwrapper">
+			<div class="cardBorder {{ card.color }}">
+				<div class="TitleCostRow">
+					<div class="title">{{ card.title }}</div><div class="cost">{{ card.cost }}</div>
 				</div>
+				<div class="TypeRarityRow">
+					<div class="type">{{ card.type }}</div><div class="rarity">{{ card.rarity }}</div>
+				</div>
+				<div class="RulesFlavorRow">
+					<div class="rulesContent">
+						<div class="rules">{{ card.content }}</div>
+						<em class="flavor">{{ card.flavor }}</em>
+					</div>
+				</div>
+				<div class="attack">{{ card.attack }}</div>
 			</div>
-			</a>
 		</div>
-	{% endfor %}
-</div>
+		</a>
+	</div>
+{% endfor %}

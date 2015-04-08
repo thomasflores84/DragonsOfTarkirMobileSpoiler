@@ -17,6 +17,7 @@ nav div {
 	text-decoration: none;
 }
 body {background-image: url('../img/concrete_seamless.png');}
+#cardRuler {position: absolute;  height:0;}
 .site .row {background-color: white;}
 .site {font-size: 8.4275pt;}
 .site p {font-size: inherit;}
@@ -48,6 +49,7 @@ nav img {
 	background: black;
 	border-radius: 5%;
 	padding: 4.2%;
+	padding-bottom: 5.7%;
 }
 
 .columns {
@@ -123,8 +125,8 @@ nav img {
 	border-radius: .5em;
 	border-bottom-left-radius: 15%;
 	border-bottom-right-radius: 15%;
-	height: 95%;
 	padding: .2em;
+	padding-bottom: 0;
 	overflow: visible;
 	background-image: url('../img/rice-paper-3.png');
 }
@@ -138,7 +140,8 @@ nav img {
 
 .cardBorder>div {
 	border: solid 1px black;
-	padding: 0 .3em;
+	padding-left: 1%;
+	padding-right: 1%;
 	font-weight: bold;
 }
 
@@ -153,18 +156,26 @@ nav img {
 }
 
 .TitleCostRow, .TypeRarityRow {
-	width: 98%;
-	height: 2em;
+	/*width: 98%;*/
 	border-radius: .6em;
 	margin: .2em 0;
-	font-size: .9em;
-
+	height: 0;
+	padding-top: 1%;
+	padding-bottom: 9%;
 	font-weight: bold;
 }
 
-.RulesFlavorRow {
+.cardBorder .RulesFlavorRow {
 	margin: 2%;
-	height: 21em;
+	padding-bottom: 115%;
+	position: relative;
+}
+
+.rulesContent {
+	position: absolute;
+	top: 2%;
+	left: 2%;
+	width: 96%;
 }
 
 .cardBorder .attack {

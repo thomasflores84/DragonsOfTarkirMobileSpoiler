@@ -11,6 +11,8 @@
       <link rel="stylesheet" href="/DragonsOfTarkirMobileSpoiler/css/style.css" />
 
       <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/modernizr.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
+      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
     </head>
     <body>
       <nav class="fixed">
@@ -32,45 +34,41 @@
         </div>
       </nav>
 
-
         <div class="container">
           <div class="site">
-          <script type="text/javascript">
-            $('.site').css('font-size', 
-                ($('.cardwrapper').width() / 300 * 12) + 'pt'
-              );
-          </script>
-                <div class="row">
+            <div class="mainBody row">
+              <div id="cardRuler" class="columns small-6 medium-4 large-3"></div>
+              <script src="/DragonsOfTarkirMobileSpoiler/js/myScript.js"></script>
+                  
 	
-		
-  			<img class="columns small-6 medium-4 large-3" src="http://media-dominaria.cursecdn.com/avatars/thumbnails/68/374/200/283/635618459217956857.png">
-		
+			<img class="columns small-6 medium-4 large-3" src="http://media-dominaria.cursecdn.com/avatars/thumbnails/68/374/200/283/635618459217956857.png">
 	
-	<div class="columns small-6 medium-4 large-3 end">
-		<div class="cardwrapper">
-			<div class="cardBorder blue">
-				<div class="TitleCostRow">
-					<div class="title">Dance of the Skywise</div><div class="cost"><span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span></div>
-				</div>
-				<div class="TypeRarityRow">
-					<div class="type">Instant</div><div class="rarity">U</div>
-				</div>
-				<div class="RulesFlavorRow">
-					<div class="rules"><p>Until end of turn, target creature you control becomes a blue Dragon Illusion with base power and toughness 4/4, loses all abilities, and gains flying.</p>
-</div><em>The Ojutai believe in the Great Wheel: those who best serve the dragonlords are destined to be reborn as dragons.</em>
-				</div>
-				
+
+<div class="columns small-6 medium-4 large-3 end">
+	<div class="cardwrapper">
+		<div class="cardBorder blue">
+			<div class="TitleCostRow">
+				<div class="title">Dance of the Skywise</div><div class="cost"><span class='Colorless Mana'>1</span><span class='Blue Mana'>U</span></div>
 			</div>
+			<div class="TypeRarityRow">
+				<div class="type">Instant</div><div class="rarity">U</div>
+			</div>
+			<div class="RulesFlavorRow">
+				<div class="rulesContent">
+					<div class="rules"><p>Until end of turn, target creature you control becomes a blue Dragon Illusion with base power and toughness 4/4, loses all abilities, and gains flying.</p>
+</div>
+					<em>The Ojutai believe in the Great Wheel: those who best serve the dragonlords are destined to be reborn as dragons.</em>
+				</div>
+			</div>
+			
 		</div>
 	</div>
 </div>
 
-            
+            </div>
           </div>
         </div> <!-- /container -->
 
-      <script src="/DragonsOfTarkirMobileSpoiler/js/vendor/jquery.js"></script>
-      <script src="/DragonsOfTarkirMobileSpoiler/js/foundation.min.js"></script>
       <script>
         $(document).foundation();
       </script>
