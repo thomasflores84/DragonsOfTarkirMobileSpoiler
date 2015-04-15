@@ -24,6 +24,7 @@ body {background-image: url('../img/concrete_seamless.png');}
 .aCard img {
   width: 92%;
   position: absolute;
+  top: 3%;
 }
 #colorLinks li {
 	float: right;
