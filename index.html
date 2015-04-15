@@ -32,7 +32,7 @@ title: Dragons of Tarkir Mobile Spoiler
 							<em class="flavor">{{ card.flavor }}</em>
 						</div>
 					</div>
-					<div class="attack">{{ card.attack }}</div>
+					{% if card.attack %}<div class="attack">{{ card.attack }}</div>{% endif %}
 				</div>
 			</div>
 		</a>
