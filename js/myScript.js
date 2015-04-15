@@ -25,5 +25,5 @@ function loadImagesInSequence(inputHiddenImages) {
 	img.onload = function(){ loadImagesInSequence(images) };
 	img.src = imgInput.value;
 	
-	imgInput.parent().add(img);
+	imgInput.parent().append(img);
 }
