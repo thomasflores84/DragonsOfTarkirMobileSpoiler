@@ -12,4 +12,3 @@ function modifySizes () {
 	}
 }
 
-window.onload = modifySizes ();
