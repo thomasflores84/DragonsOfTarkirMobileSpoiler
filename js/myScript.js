@@ -11,7 +11,7 @@ window.onload =  function () {
 	$('.site').css('font-size', 
 		($('.TitleCostRow').outerHeight() * 2  / 5) + 'px'
 	);
-	alert($('input[type=hidden]').toArray());
+	loadImagesInSequence($('input[type=hidden]').toArray());
 }
 
 function loadImagesInSequence(inputHiddenImages) {
@@ -25,5 +25,5 @@ function loadImagesInSequence(inputHiddenImages) {
 	img.onload = function(){ loadImagesInSequence(images) };
 	img.src = imgInput.value;
 	
-	imgInput.parent().append(img);
+	imgInput.parent().add(img);
 }
