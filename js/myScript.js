@@ -1,13 +1,12 @@
-
+var isLoaded = false;
 function modifySizes () {
 	
     $('.site').css('font-size', 
         ($('.TitleCostRow').outerHeight() * 2  / 5) + 'px'
       );
-	/*$('.site').css('font-size', 
-			($('.cardwrapper').width() / 300 * 12) + 'pt'
-		);*/
+
+	if (!isLoaded) alert($('input[type=hidden]').toArray());
+	isLoaded = true;
 }
 modifySizes ();
 $( window ).resize(modifySizes);
-window.onload = alert($('input[type=hidden]').toArray());
