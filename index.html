@@ -11,14 +11,14 @@ title: Dragons of Tarkir Mobile Spoiler
 	{% endif %}
 	<div class="aCard columns small-6 medium-4 large-3">
 		<a href="{{ site.baseurl }}/{{ card.url }}">
-	{% comment %}
 		{% if card.image %}
 			{% if card.image contains 'http:' %}
-	  			<img class="" src="{{ card.image }}">
+	  			<input type="hidden" value="{{ card.image }}">
 			{% else %}
-	  			<img class="" src="{{ site.baseurl }}/img/{{ card.image }}">
+	  			<input type="hidden" value="{{ site.baseurl }}/img/{{ card.image }}">
 			{% endif %}
 		{% endif %}
+	{% comment %}
 	{% endcomment %}
 		<div class="cardwrapper">
 			<div class="cardBorder {{ card.color }}">
