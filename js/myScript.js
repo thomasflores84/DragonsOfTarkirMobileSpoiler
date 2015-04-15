@@ -22,7 +22,7 @@ function loadImagesInSequence(inputHiddenImages) {
 	var imgInput = inputHiddenImages.shift();
 	var img = new Image();
 	
-	img.onload = function(){ loadImagesInSequence(images) };
+	img.onload = function(){ loadImagesInSequence(inputHiddenImages) };
 	img.src = imgInput.value;
 	
 	$(imgInput).parent().add(img);
