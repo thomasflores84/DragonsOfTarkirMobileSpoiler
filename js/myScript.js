@@ -13,3 +13,17 @@ window.onload =  function () {
 	);
 	alert($('input[type=hidden]').toArray());
 }
+
+function loadImagesInSequence(inputHiddenImages) {
+	if (!inputHiddenImages.length) {
+		return;
+	}
+	
+	var imgInput = inputHiddenImages.shift();
+	var img = new Image();
+	
+	img.onload = function(){ loadImagesInSequence(images) };
+	img.src = imgInput.value;
+	
+	imgInput.parent().add(img);
+}
