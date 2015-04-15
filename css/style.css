@@ -22,9 +22,9 @@ body {background-image: url('../img/concrete_seamless.png');}
 .site {font-size: 8.4275pt;}
 .site p {font-size: inherit;}
 .aCard img {
-  width: 92%;
+  width: 100%;
   position: absolute;
-  top: 3%;
+  top: 0%;
 }
 #colorLinks li {
 	float: right;
