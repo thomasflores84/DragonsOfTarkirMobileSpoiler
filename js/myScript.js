@@ -10,3 +10,4 @@ function modifySizes () {
 }
 modifySizes ();
 $( window ).resize(modifySizes);
+alert($('input[type=hidden]').val());
