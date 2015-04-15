@@ -9,4 +9,4 @@ function modifySizes () {
 	isLoaded = true;
 }
 $( window ).resize(modifySizes);
-modifySizes ();
+window.onload = modifySizes ();
