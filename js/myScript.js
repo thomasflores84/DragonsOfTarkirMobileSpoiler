@@ -2,7 +2,7 @@
 function modifySizes () {
 	
     $('.site').css('font-size', 
-        ($('#cardRuler').outerWidth() / 500) + 'em'
+        ($('.TitleCostRow').outerHeight() / 2) + 'em'
       );
 	/*$('.site').css('font-size', 
 			($('.cardwrapper').width() / 300 * 12) + 'pt'
