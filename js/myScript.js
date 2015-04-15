@@ -8,5 +8,4 @@ function modifySizes () {
 	if (!isLoaded) alert($('input[type=hidden]').toArray());
 	isLoaded = true;
 }
-modifySizes ();
 $( window ).resize(modifySizes);
