@@ -12,3 +12,6 @@ function modifySizes () {
 	}
 }
 
+window.onload =  $('.site').css('font-size', 
+        ($('.TitleCostRow').outerHeight() * 2  / 5) + 'px'
+      );
