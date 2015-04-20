@@ -1,11 +1,7 @@
 var isLoaded = false;
 function modifySizes () {
     $('.site').css('font-size', 
-<<<<<<< Updated upstream
         ($('.TitleCostRow').outerHeight() * 2  / 5) + 'px'
-=======
-        ($('#cardRuler').outerWidth() / 450) + 'em'
->>>>>>> Stashed changes
       );
 }
 
